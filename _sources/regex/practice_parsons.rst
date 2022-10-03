@@ -9,70 +9,52 @@ on it for about five minutes without solving it.
 Problems
 ==============
 
-.. selectquestion:: get-middle-p3-tog-v2
-   :fromid: get-middle-ac, get-middle-Parsons-Version-pilot
-   :toggle: lock
-   :points: 10
+.. selectquestion:: hparsons_lg_regex_1 
+    :ab: hparsons_lg_regex
+    :fromid: hparsons_lg_regex_1_hparsons, hparsons_lg_regex_1_write
+    :points: 10
 
-.. poll:: toggle-poll-p3-tog-1
+.. poll:: hparsons_lg_regex_poll_1
     :scale: 9
 
-    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
+    From 1 (not frustrated at all) to 9 (very frustrated), how much frustration you felt when you wre trying to solve the problem?
 
-.. selectquestion:: list_loop_two_lists-p3-tog-v3
-   :fromid: list_loop_two_lists_ac, list_loop_two_lists_pp
-   :toggle: lock
-   :points: 10
+.. selectquestion:: hparsons_lg_regex_2
+    :ab: hparsons_lg_regex
+    :fromid: hparsons_lg_regex_2_hparsons, hparsons_lg_regex_2_write
+    :points: 10
 
-.. poll:: toggle-poll-p3-tog-2
+.. poll:: hparsons_lg_regex_poll_2
     :scale: 9
 
-    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
+    From 1 (not frustrated at all) to 9 (very frustrated), how much frustration you felt when you wre trying to solve the problem?
 
+.. selectquestion:: hparsons_lg_regex_3
+    :ab: hparsons_lg_regex
+    :fromid: hparsons_lg_regex_3_hparsons, hparsons_lg_regex_3_write
+    :points: 10
 
-.. selectquestion:: has22-p3-tog
-   :fromid: has22_Write, has22_Parsons-Version-A
-   :toggle: lock
-   :points: 10
-
-.. poll:: toggle-poll-p3-tog-3
+.. poll:: hparsons_lg_regex_poll_3
     :scale: 9
 
-    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
+    From 1 (not frustrated at all) to 9 (very frustrated), how much frustration you felt when you wre trying to solve the problem?
 
+.. selectquestion:: hparsons_lg_regex_4
+    :ab: hparsons_lg_regex
+    :fromid: hparsons_lg_regex_4_hparsons, hparsons_lg_regex_4_write
+    :points: 10
 
-.. selectquestion:: sum13-p3-tog
-   :fromid: sum13_writecode_test_1_v2, sum13-Parsons-version-pilot
-   :toggle: lock
-   :points: 10
-
-.. poll:: toggle-poll-p3-tog-4
+.. poll:: hparsons_lg_regex_poll_4
     :scale: 9
 
-    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
+    From 1 (not frustrated at all) to 9 (very frustrated), how much frustration you felt when you wre trying to solve the problem?
 
+.. selectquestion:: hparsons_lg_regex_5
+    :ab: hparsons_lg_regex
+    :fromid: hparsons_lg_regex_5_hparsons, hparsons_lg_regex_5_write
+    :points: 10
 
-Feedback
-==================================
+.. poll:: hparsons_lg_regex_poll_5
+    :scale: 9
 
-.. shortanswer:: p3-parsons-tog-sa
-
-   Please provide feedback here. Please share any comments, problems, or suggestions.
-
-What to do next
-============================
-.. raw:: html
-
-    <p>Click on the following link to go to the post test: <b><a id="p3-post"><font size="+2">Post Test</font></a></b></p>
-
-.. raw:: html
-
-    <script type="text/javascript" >
-
-      window.onload = function() {
-
-        a = document.getElementById("p3-post")
-        a.href = "p3-post.html"
-      };
-
-    </script>
+    From 1 (not frustrated at all) to 9 (very frustrated), how much frustration you felt when you wre trying to solve the problem?

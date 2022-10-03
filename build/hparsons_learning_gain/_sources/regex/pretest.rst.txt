@@ -1,0 +1,22 @@
+Pretest
+----------
+
+.. mchoice:: hparsons_lg_regex_pretest_mcq_1
+
+    What does a regex [^abc] mean?
+
+    -   Match a character that is one of ^, a, b, and c.
+
+        -
+
+    -   Match a character that is not one of ^, a, b, or c.
+
+        -
+
+    -   Match a character that is not one of a, b, or c.
+
+        +
+
+    -   Match 3 characters in the sequence of "abc".
+
+        -

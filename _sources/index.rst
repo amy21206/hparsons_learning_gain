@@ -24,7 +24,8 @@ This is just a sample of what you can do.  The index.rst file is the table of co
 .. toctree::
    :maxdepth: 2
 
-   regex/practice_parsons.rst
+   .. regex/practice_parsons.rst
+   regex/pretest.rst
    regex/practice_problem_bank.rst
 
 
