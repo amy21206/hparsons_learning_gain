@@ -84,3 +84,46 @@ Pretest
 
         -
 
+
+.. mchoice:: hparsons_lg_regex_pretest_mcq_5
+
+    Which of the following pattern would match "A"s separated by individual "B"s in between, for example, "AAABAABAA", "ABAAA"?
+    Note that "B" should not appear consecutively, and should not appear as the first or last character. B must appear at least once.
+
+    -   (A+B)+A+
+
+        +
+
+    -   (A+B)*A+
+
+        -
+
+    -   (AB)+A+
+
+        -
+
+    -   (A*B)+A+
+
+        -
+
+
+.. mchoice:: hparsons_lg_regex_pretest_mcq_6
+
+    Which of the following pattern would match both words "attend" and "attendee"?
+
+    -   attend(ee)?
+
+        +
+
+    -   attend|ee
+
+        -
+
+    -   attend(ee){1,}
+
+        -
+
+    -   attend[ee]
+
+        -
+
