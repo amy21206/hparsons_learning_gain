@@ -234,7 +234,7 @@ explanation: write code answers might not use (?:...).
 
 
 Practice problem 6: helpful pattern (ABABAB...A) 
-========================================
+==================================================
 
 Explanation: parsons group might learn useful patter of (AB)+A to match ABAB..A
 

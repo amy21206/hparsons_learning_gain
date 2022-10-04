@@ -38,7 +38,7 @@
     <script defer="" src="../_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="prev" title="Practice Problems" href="practice_parsons.html" />
+    <link rel="prev" title="Pretest" href="pretest.html" />
 
 
 <link rel="shortcut icon" href="/runestone/static/favicon.ico" type="image/ico" />
@@ -220,8 +220,8 @@
         
         <!-- 
           
-  <li id="relations-prev" title="Previous Chapter - Practice Problems" data-toggle="tooltip">
-    <a href="practice_parsons.html" >
+  <li id="relations-prev" title="Previous Chapter - Pretest" data-toggle="tooltip">
+    <a href="pretest.html" >
       <i class='glyphicon glyphicon-backward' style='opacity:0.9;'></i>
     </a>
   </li>
@@ -573,6 +573,73 @@ myTests().main()
 </div>
 </div>
 </section>
+<section id="practice-problem-6-helpful-pattern-ababab-a">
+<h2>Practice problem 6: helpful pattern (ABABAB…A)<a class="headerlink" href="#practice-problem-6-helpful-pattern-ababab-a" title="Permalink to this heading">¶</a></h2>
+<p>Explanation: parsons group might learn useful patter of (AB)+A to match ABAB..A</p>
+
+<div>
+<div data-component="hparsons" id=hparsons_lg_regex_6_hparsons data-question_label="11" class="alert alert-warning hparsons_section">
+<div class="hp_question col-md-12">
+<p>Please write a regex to capture a URL that only consists of characters, numbers, underscore, and dots.
+For example: www.abc.com, def_ghi.com, a678.cn
+Note that dots(“.”) should not appear consecutively, and should not appear as the first or last character. The dot must appear at least once.</p>
+
+</div>
+<div class='hparsons'></div>
+<textarea
+    data-language='regex'
+    
+    
+    
+     data-randomize="true"
+    data-blockanswer='0 1 2'
+    style="visibility: hidden;">
+--blocks--
+(\w+\.)
++
+\w+
+\.
+</textarea>
+</div>
+</div>
+
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=hparsons_lg_regex_6_write data-question_label="12">
+<div id=hparsons_lg_regex_6_write_question class="ac_question col-md-12">
+<p>Please write a regex to capture a URL that only consists of characters, numbers, underscore, and dots.
+For example: www.abc.com, def_ghi.com, a678.cn
+Note that dots(“.”) should not appear consecutively, and should not appear as the first or last character. The dot must appear at least once.
+Replace “YOUR_REGEX” with your answer, but do not remove other symbols.</p>
+
+</div>
+<textarea data-lang="python" id="hparsons_lg_regex_6_write_editor" 
+      data-timelimit=25000     
+    data-audio=''      
+           data-wasm=/_static
+     style="visibility: hidden;">
+import re
+
+def match_URL(content):
+    if re.match('^YOUR_REGEX$', content) != None:
+        return True
+    else:
+        return False
+====
+from unittest.gui import TestCaseGui
+
+class myTests(TestCaseGui):
+    def testOne(self):
+        self.assertEqual(match_URL('www.abc.com'), True, 'Should match "www.abc.com"')
+        self.assertEqual(match_URL('def_ghi.com'), True, 'Should match "def_ghi.com"')
+        self.assertEqual(match_URL('a678.cn'), True, 'Should match "a678.cn"')
+        self.assertEqual(match_URL('com'), False, 'Should not match "com"')
+        self.assertEqual(match_URL('abc*.com'), False, 'Should not match "abc*.com"')
+        self.assertEqual(match_URL('abc..com'), False, 'Should not match "abc..com"')
+myTests().main()
+</textarea>
+</div>
+</div>
+</section>
 </section>
 
 
@@ -581,8 +648,8 @@ myTests().main()
   </div>
 
   <ul role="navigation" class="nextprev-list nextprev-list" aria-label="Change page">
-<li id="relations-prev" class="navLink" title='Previous Section - Practice Problems' data-toggle="tooltip">
-  <a href="practice_parsons.html" aria-label="Previous - Practice Problems">
+<li id="relations-prev" class="navLink" title='Previous Section - Pretest' data-toggle="tooltip">
+  <a href="pretest.html" aria-label="Previous - Pretest">
     <i class='prevNav glyphicon glyphicon-chevron-left'  style="top:50%; transform:translateY(-50%)translateX(-50%); left: 50%; color:black;"></i>
   </a>
 </li>

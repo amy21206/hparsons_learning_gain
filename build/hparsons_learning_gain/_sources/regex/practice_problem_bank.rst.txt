@@ -231,3 +231,55 @@ explanation: write code answers might not use (?:...).
             self.assertEqual(find_price('I spent $23.32 for the book.'), ['$23.32'], 'I spent $23.32 for the book.')
             self.assertEqual(find_price('The gift cost me $400, and the cake was $40.26.'), ['$400', '$40.26'], 'The gift cost me $400, and the cake was $40.26.')
     myTests().main()
+
+
+Practice problem 6: helpful pattern (ABABAB...A) 
+==================================================
+
+Explanation: parsons group might learn useful patter of (AB)+A to match ABAB..A
+
+.. hparsons:: hparsons_lg_regex_6_hparsons
+    :language: regex
+    :randomize:
+    :blockanswer: 0 1 2
+
+    Please write a regex to capture a URL that only consists of characters, numbers, underscore, and dots. 
+    For example: www.abc.com, def_ghi.com, a678.cn
+    Note that dots(".") should not appear consecutively, and should not appear as the first or last character. The dot must appear at least once.
+
+    ~~~~
+    --blocks--
+    (\w+\.)
+    +
+    \w+
+    \.
+
+
+.. activecode:: hparsons_lg_regex_6_write
+    :nocodelens:
+
+    Please write a regex to capture a URL that only consists of characters, numbers, underscore, and dots. 
+    For example: www.abc.com, def_ghi.com, a678.cn
+    Note that dots(".") should not appear consecutively, and should not appear as the first or last character. The dot must appear at least once.
+    Replace "YOUR_REGEX" with your answer, but do not remove other symbols.
+
+    ~~~~
+    import re
+
+    def match_URL(content):
+        if re.match('^YOUR_REGEX$', content) != None:
+            return True
+        else:
+            return False
+    ====
+    from unittest.gui import TestCaseGui
+
+    class myTests(TestCaseGui):
+        def testOne(self):
+            self.assertEqual(match_URL('www.abc.com'), True, 'Should match "www.abc.com"')
+            self.assertEqual(match_URL('def_ghi.com'), True, 'Should match "def_ghi.com"')
+            self.assertEqual(match_URL('a678.cn'), True, 'Should match "a678.cn"')
+            self.assertEqual(match_URL('com'), False, 'Should not match "com"')
+            self.assertEqual(match_URL('abc*.com'), False, 'Should not match "abc*.com"')
+            self.assertEqual(match_URL('abc..com'), False, 'Should not match "abc..com"')
+    myTests().main()

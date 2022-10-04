@@ -269,7 +269,7 @@
     <div class="runestone ">
     <ul data-component="multiplechoice" data-question_label="1" data-multipleanswers="false"  id="hparsons_lg_regex_pretest_mcq_1"  style="visibility: hidden;">
     <p>Q-1: What does a regex [^abc] mean?</p>
-<li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_1_opt_a"><p>Match a character that is one of ^, a, b, and c.</p>
+<li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_1_opt_a"><p>Match a character that is one of ^, a, b, or c.</p>
 </li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_1_opt_a">
 </li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_1_opt_b"><p>Match a character that is not one of ^, a, b, or c.</p>
 </li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_1_opt_b">
@@ -277,6 +277,87 @@
 </li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_1_opt_c">
 </li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_1_opt_d"><p>Match 3 characters in the sequence of “abc”.</p>
 </li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_1_opt_d">
+</li>
+
+    </ul>
+    </div>
+    
+    <div class="runestone ">
+    <ul data-component="multiplechoice" data-question_label="2" data-multipleanswers="false"  id="hparsons_lg_regex_pretest_mcq_2"  style="visibility: hidden;">
+    <p>Q-2: What does the pattern ‘d’ do in regex?</p>
+<li data-component="answer" data-correct id="hparsons_lg_regex_pretest_mcq_2_opt_a"><p>Matches any digit (0, 1, …, 9).</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_2_opt_a">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_2_opt_b"><p>Matches any date (yyyy-mm-dd).</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_2_opt_b">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_2_opt_c"><p>Matches a dash.</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_2_opt_c">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_2_opt_d"><p>Matches a dot.</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_2_opt_d">
+</li>
+
+    </ul>
+    </div>
+    
+    <div class="runestone ">
+    <ul data-component="multiplechoice" data-question_label="3" data-multipleanswers="true"  id="hparsons_lg_regex_pretest_mcq_3"  style="visibility: hidden;">
+    <p>Q-3: Which one of the following patterns should I use to treat “abc” as a group for repeating, but not make re.findall only return the content in the group?</p>
+<li data-component="answer" data-correct id="hparsons_lg_regex_pretest_mcq_3_opt_a"><p>[abc]</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_3_opt_a">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_3_opt_b"><p>(abc)</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_3_opt_b">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_3_opt_c"><p>(?abc)</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_3_opt_c">
+</li><li data-component="answer" data-correct id="hparsons_lg_regex_pretest_mcq_3_opt_d"><p>(?:abc)</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_3_opt_d">
+</li>
+
+    </ul>
+    </div>
+    
+    <div class="runestone ">
+    <ul data-component="multiplechoice" data-question_label="4" data-multipleanswers="false"  id="hparsons_lg_regex_pretest_mcq_4"  style="visibility: hidden;">
+    <p>Q-4: What does pattern “w” mean?</p>
+<li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_4_opt_a"><p>Any lowercase letter</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_4_opt_a">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_4_opt_b"><p>Any lowercase or uppercase letter</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_4_opt_b">
+</li><li data-component="answer" data-correct id="hparsons_lg_regex_pretest_mcq_4_opt_c"><p>Any lowercase or uppercase letter, or underscore</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_4_opt_c">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_4_opt_d"><p>A word consisting of uppercase or lowercase letters</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_4_opt_d">
+</li>
+
+    </ul>
+    </div>
+    
+    <div class="runestone ">
+    <ul data-component="multiplechoice" data-question_label="5" data-multipleanswers="false"  id="hparsons_lg_regex_pretest_mcq_5"  style="visibility: hidden;">
+    <p>Q-5: Which of the following pattern would match “A”s separated by individual “B”s in between, for example, “AAABAABAA”, “ABAAA”?
+Note that “B” should not appear consecutively, and should not appear as the first or last character. B must appear at least once.</p>
+<li data-component="answer" data-correct id="hparsons_lg_regex_pretest_mcq_5_opt_a"><p>(A+B)+A+</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_5_opt_a">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_5_opt_b"><p>(A+B)*A+</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_5_opt_b">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_5_opt_c"><p>(AB)+A+</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_5_opt_c">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_5_opt_d"><p>(A*B)+A+</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_5_opt_d">
+</li>
+
+    </ul>
+    </div>
+    
+    <div class="runestone ">
+    <ul data-component="multiplechoice" data-question_label="6" data-multipleanswers="false"  id="hparsons_lg_regex_pretest_mcq_6"  style="visibility: hidden;">
+    <p>Q-6: Which of the following pattern would match both words “attend” and “attendee”?</p>
+<li data-component="answer" data-correct id="hparsons_lg_regex_pretest_mcq_6_opt_a"><p>attend(ee)?</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_6_opt_a">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_6_opt_b"><p>attend|ee</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_6_opt_b">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_6_opt_c"><p>attend(ee){1,}</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_6_opt_c">
+</li><li data-component="answer"  id="hparsons_lg_regex_pretest_mcq_6_opt_d"><p>attend[ee]</p>
+</li><li data-component="feedback" id="hparsons_lg_regex_pretest_mcq_6_opt_d">
 </li>
 
     </ul>
