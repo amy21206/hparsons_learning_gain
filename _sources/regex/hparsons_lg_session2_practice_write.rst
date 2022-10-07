@@ -1,4 +1,4 @@
-Practice Problems
+Practice Problems - Write Code
 -----------------------------------------------------
 
 Please answer
@@ -38,7 +38,7 @@ What to do next
 ============================
 .. raw:: html
 
-    <p>Click on the following link to go to the post test: <b><a id="hparsons_lg_session1_posttest"><font size="+2">Post Test</font></a></b></p>
+    <p>Click on the following link to go to the post test: <b><a id="hparsons_lg_session2_posttest"><font size="+2">Post Test</font></a></b></p>
 
 .. raw:: html
 
