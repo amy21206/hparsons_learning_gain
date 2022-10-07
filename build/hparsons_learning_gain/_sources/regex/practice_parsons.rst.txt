@@ -58,3 +58,13 @@ Problems
     :scale: 9
 
     From 1 (not frustrated at all) to 9 (very frustrated), how much frustration you felt when you wre trying to solve the problem?
+
+.. selectquestion:: hparsons_lg_regex_6
+    :ab: hparsons_lg_regex
+    :fromid: hparsons_lg_regex_6_hparsons, hparsons_lg_regex_6_write
+    :points: 10
+
+.. poll:: hparsons_lg_regex_poll_6
+    :scale: 9
+
+    From 1 (not frustrated at all) to 9 (very frustrated), how much frustration you felt when you wre trying to solve the problem?

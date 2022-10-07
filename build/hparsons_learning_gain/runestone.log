@@ -703,3 +703,25 @@ Aborted!
 127.0.0.1 - - [04/Oct/2022 15:28:19] "POST /assessment/gethist HTTP/1.1" 501 -
 
 Aborted!
+127.0.0.1 - - [04/Oct/2022 16:22:32] "GET /regex/practice_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2022 16:22:32] "GET /regex/practice_problem_bank.html HTTP/1.1" 304 -
+127.0.0.1 - - [04/Oct/2022 16:22:32] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2022 16:22:33] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2022 16:22:33] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2022 16:22:33] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Oct/2022 16:22:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [04/Oct/2022 16:22:34] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [04/Oct/2022 16:22:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [04/Oct/2022 16:22:34] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [04/Oct/2022 16:22:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [04/Oct/2022 16:22:34] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [04/Oct/2022 16:22:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [04/Oct/2022 16:22:34] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [04/Oct/2022 16:22:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [04/Oct/2022 16:22:34] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [04/Oct/2022 16:22:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [04/Oct/2022 16:22:34] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [04/Oct/2022 16:22:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [04/Oct/2022 16:22:34] "POST /assessment/gethist HTTP/1.1" 501 -
+
+Aborted!

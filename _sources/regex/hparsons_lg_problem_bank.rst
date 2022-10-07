@@ -1,5 +1,5 @@
-Problem Bank for Practice Problems
-------------------------------------
+Problem Bank for Practice Problems and Test Problems
+-----------------------------------------------------
 
 Practice problem 1: Character set
 ==================================
@@ -21,7 +21,8 @@ explanation: write code answer might be `gr[ae]y` or `gray|grey`
     a
 
 .. activecode:: hparsons_lg_regex_1_write
-    :nocodelens:
+    :practice: T
+    :autograde: unittest
 
     Please write a regex that would match both word "gray" and "grey".
     Replace "YOUR_REGEX" with your answer, but do not remove other symbols.
@@ -65,6 +66,8 @@ explanation: `\w` is different.
 
 .. activecode:: hparsons_lg_regex_2_write
     :nocodelens:
+    :practice: T
+    :autograde: unittest
 
     Please write a regex that would match a word that starts with an uppercase letter and followed by at least one lowercase letters, like "Apple", "Banana", or "Carrot".
     Replace "YOUR_REGEX" with your answer, but do not remove other symbols.
@@ -90,10 +93,10 @@ explanation: `\w` is different.
     myTests().main()
 
 
-Practice problem 3: Character set `\\d` and repetition
+Practice problem 3: Character set ``\d`` and repetition
 ======================================================
 
-explanation: write code answers could be: [0-9] instead of `\d`.
+explanation: write code answers could be: [0-9] instead of ``\d``.
 
 .. hparsons:: hparsons_lg_regex_3_hparsons
     :language: regex
@@ -109,6 +112,8 @@ explanation: write code answers could be: [0-9] instead of `\d`.
 
 .. activecode:: hparsons_lg_regex_3_write
     :nocodelens:
+    :practice: T
+    :autograde: unittest
 
     Please write a regex to capture numbers with 5-7 digits. For example: 48105, 103028, 1234567.
     Replace "YOUR_REGEX" with your answer, but do not remove other symbols.
@@ -157,6 +162,8 @@ explanation: write code answers might use [bcde....] instead of [^aeiou].
 
 .. activecode:: hparsons_lg_regex_4_write
     :nocodelens:
+    :practice: T
+    :autograde: unittest
 
     Capture words that start with a vowel (a, e, i, o, u), but end with a consonant (any letters that are not a, e, i, o, u).
     For example, it should match "unicorn", "it", and "element".
@@ -212,6 +219,8 @@ explanation: write code answers might not use (?:...).
 
 .. activecode:: hparsons_lg_regex_5_write
     :nocodelens:
+    :practice: T
+    :autograde: unittest
 
     Please write a regex to replace the 'YOUR_REGEX' below to match any price in the form of $3.45 or $23.32 or $400.
     Note that we are using re.findall(), so please make sure your regex would return the full match string.
@@ -257,6 +266,8 @@ Explanation: parsons group might learn useful patter of (AB)+A to match ABAB..A
 
 .. activecode:: hparsons_lg_regex_6_write
     :nocodelens:
+    :practice: T
+    :autograde: unittest
 
     Please write a regex to capture a URL that only consists of characters, numbers, underscore, and dots. 
     For example: www.abc.com, def_ghi.com, a678.cn
@@ -283,3 +294,151 @@ Explanation: parsons group might learn useful patter of (AB)+A to match ABAB..A
             self.assertEqual(match_URL('abc*.com'), False, 'Should not match "abc*.com"')
             self.assertEqual(match_URL('abc..com'), False, 'Should not match "abc..com"')
     myTests().main()
+
+
+
+.. mchoice:: hparsons_lg_regex_test_mcq_1
+
+    What does a regex ``[^abc]`` mean?
+
+    -   Match a character that is one of ^, a, b, or c.
+
+        -
+
+    -   Match a character that is not one of ^, a, b, or c.
+
+        -
+
+    -   Match a character that is not one of a, b, or c.
+
+        +
+
+    -   Match 3 characters in the sequence of "abc".
+
+        -
+
+
+.. mchoice:: hparsons_lg_regex_test_mcq_2
+
+    What does the pattern ``\d`` do in regex?
+
+    -   Matches any digit (0, 1, ..., 9).
+
+        +
+
+    -   Matches any date (yyyy-mm-dd).
+
+        -
+
+    -   Matches a dash.
+
+        -
+
+    -   Matches a dot.
+
+        -
+
+    -   I don't know.
+
+        -
+
+.. mchoice:: hparsons_lg_regex_test_mcq_3
+
+    Which one of the following patterns should I use to treat "abc" as a group for repeating, but not make re.findall only return the content in the group?
+
+
+    -   [abc]
+
+        -
+
+    -   (abc)
+
+        -
+
+    -   (?abc)
+
+        -
+
+    -   (?:abc)
+
+        +
+
+    -   I don't know.
+
+        -
+
+.. mchoice:: hparsons_lg_regex_test_mcq_4
+
+    What does pattern ``\w`` mean?
+
+    -   Any lowercase letter
+
+        -
+
+    -   Any lowercase or uppercase letter
+
+        -
+
+    -   Any lowercase or uppercase letter, or underscore
+
+        +
+
+    -   A word consisting of uppercase or lowercase letters
+
+        -
+
+    -   I don't know.
+
+        -
+
+
+.. mchoice:: hparsons_lg_regex_test_mcq_5
+
+    Which of the following pattern would match "A"s separated by individual "B"s in between, for example, "AAABAABAA", "ABAAA"?
+    Note that "B" should not appear consecutively, and should not appear as the first or last character. B must appear at least once.
+
+    -   (A+B)+A+
+
+        +
+
+    -   (A+B)*A+
+
+        -
+
+    -   (AB)+A+
+
+        -
+
+    -   (A*B)+A+
+
+        -
+
+    -   I don't know.
+
+        -
+
+
+.. mchoice:: hparsons_lg_regex_test_mcq_6
+
+    Which of the following pattern would match both words "attend" and "attendee"?
+
+    -   attend|ee
+
+        -
+    
+    -   attend(ee){1,}
+
+        -
+
+    -   attend(ee)?
+
+        +
+
+    -   attend[ee]
+
+        -
+
+    -   I don't know.
+
+        -
+
