@@ -102,7 +102,7 @@ What to do next
         }
         else
         {
-              a.href = "hparsons_lg_session2_practice_hparsons.html"
+              a.href = "hparsons_lg_session2_practice_parsons.html"
         }
 
         };
