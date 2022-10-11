@@ -10,27 +10,27 @@ Problems
 ==============
 
 .. selectquestion:: hparsons_lg_regex_1_practice_parsons
-   :fromid: hparsons_lg_regex_1_parsons
+   :fromid: hparsons_lg_regex_1_hparsons
    :points: 10
 
 .. selectquestion:: hparsons_lg_regex_2_practice_parsons
-   :fromid: hparsons_lg_regex_2_parsons
+   :fromid: hparsons_lg_regex_2_hparsons
    :points: 10
 
 .. selectquestion:: hparsons_lg_regex_3_practice_parsons
-   :fromid: hparsons_lg_regex_3_parsons
+   :fromid: hparsons_lg_regex_3_hparsons
    :points: 10
 
 .. selectquestion:: hparsons_lg_regex_4_practice_parsons
-   :fromid: hparsons_lg_regex_4_parsons
+   :fromid: hparsons_lg_regex_4_hparsons
    :points: 10
 
 .. selectquestion:: hparsons_lg_regex_5_practice_parsons
-   :fromid: hparsons_lg_regex_5_parsons
+   :fromid: hparsons_lg_regex_5_hparsons
    :points: 10
 
 .. selectquestion:: hparsons_lg_regex_6_practice_parsons
-   :fromid: hparsons_lg_regex_6_parsons
+   :fromid: hparsons_lg_regex_6_hparsons
    :points: 10
 
 

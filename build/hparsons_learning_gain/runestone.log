@@ -1389,3 +1389,86 @@ Aborted!
 127.0.0.1 - - [06/Oct/2022 21:36:05] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
 
 Aborted!
+127.0.0.1 - - [07/Oct/2022 08:59:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:44] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:45] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:46] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:46] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:46] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:46] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:46] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:46] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:46] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:46] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:46] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /regex/hparsons_lg_session1_presurvey.html HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /_static/350.css HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /_static/350.d37f5c532eb242de.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_1&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_3&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_2&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_4&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_5&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:47] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:47] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_6&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:48] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:48] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_7&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:48] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:48] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_10&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:48] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:48] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_8&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 08:59:48] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 08:59:48] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_9&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 09:00:54] "GET /regex/hparsons_lg_session1_pretest.html HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/724.css HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/254.css HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/730.5134e522d95b9385.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/556.7b3561013caaee14.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:55] "GET /_static/338.4a5c4850b4a620cd.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:56] "GET /_static/144.4702de71f3988031.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:56] "GET /_static/866.acc4fa2810869869.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:56] "GET /_static/724.dff5eb7362a91bd9.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [07/Oct/2022 09:00:56] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [07/Oct/2022 09:00:56] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [07/Oct/2022 09:05:58] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2022 09:06:36] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 09:06:36] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_1&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 09:06:36] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 09:06:36] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_2&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 09:06:37] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 09:06:37] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_3&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 09:06:37] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 09:06:37] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_4&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 09:06:37] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 09:06:37] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_6&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [07/Oct/2022 09:06:37] code 404, message File not found
+127.0.0.1 - - [07/Oct/2022 09:06:37] "GET /assessment/getpollresults?div_id=hparsons_lg_regex_presurvey_5&course=hparsons_learning_gain HTTP/1.1" 404 -
