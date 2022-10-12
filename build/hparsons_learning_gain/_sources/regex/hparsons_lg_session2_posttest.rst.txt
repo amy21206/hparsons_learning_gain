@@ -15,27 +15,27 @@ Problems
    :nopause:
 
    .. selectquestion:: hparsons_lg_regex_posttest_1
-      :fromid: hparsons_lg_regex_test_mcq_1
+      :fromid: hparsons_lg_regex_test_mcq_1_post
       :points: 1
 
    .. selectquestion:: hparsons_lg_regex_posttest_2
-      :fromid: hparsons_lg_regex_test_mcq_2
+      :fromid: hparsons_lg_regex_test_mcq_2_post
       :points: 1
 
    .. selectquestion:: hparsons_lg_regex_posttest_3
-      :fromid: hparsons_lg_regex_test_mcq_3
+      :fromid: hparsons_lg_regex_test_mcq_3_post
       :points: 1
 
    .. selectquestion:: hparsons_lg_regex_posttest_4
-      :fromid: hparsons_lg_regex_test_mcq_4
+      :fromid: hparsons_lg_regex_test_mcq_4_post
       :points: 1
 
    .. selectquestion:: hparsons_lg_regex_posttest_5
-      :fromid: hparsons_lg_regex_test_mcq_5
+      :fromid: hparsons_lg_regex_test_mcq_5_post
       :points: 1
 
    .. selectquestion:: hparsons_lg_regex_posttest_6
-      :fromid: hparsons_lg_regex_test_mcq_6
+      :fromid: hparsons_lg_regex_test_mcq_6_post
       :points: 1
 
 
