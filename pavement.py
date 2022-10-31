@@ -22,8 +22,14 @@ if not master_url:
 
 # The root directory for ``runestone serve``.
 serving_dir = "./build/" + project_name
+
+dynamic_pages = True
+
 # The destination directory for ``runestone deploy``.
-dest = "../../static"
+if dynamic_pages:
+    dest = './published'
+else:
+    dest = "../../static"
 
 options(
     sphinx=Bunch(docroot=".",),
@@ -43,7 +49,8 @@ options(
             'downloads_enabled': 'false',
             'enable_chatcodes': 'false',
             'allow_pairs': 'false',
-            'dynamic_pages': False,
+            # dynamic pages changes according to p3tog
+            'dynamic_pages': dynamic_pages,
             'use_services': 'false',
             'basecourse': project_name,
             'course_id': project_name,
