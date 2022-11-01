@@ -19,3 +19,5 @@ Index
 
    regex/hparsons_lg_session1_presurvey.rst
    regex/hparsons_lg_session2_intro.rst
+
+   SQL/hparsons_lg_sql_pretest.rst
