@@ -23,4 +23,4 @@ Thank You 🤗
 ============================
 🎉 Thank you for taking part in this study!  We appreciate your time on this. 
 
-If you are interested to learn more or share your thoughts, please contact Zihan Wu at ziwu@umich.edu.
+If you are interested to learn more about our research or want to share any thoughts, please contact Zihan Wu at ziwu@umich.edu.

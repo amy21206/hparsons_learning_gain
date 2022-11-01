@@ -17,7 +17,7 @@ Index
 .. toctree::
    :maxdepth: 2
 
-   regex/hparsons_lg_session1_presurvey.rst
-   regex/hparsons_lg_session2_intro.rst
+   .. regex/hparsons_lg_session1_presurvey.rst
+   .. regex/hparsons_lg_session2_intro.rst
 
    SQL/hparsons_lg_sql_pretest.rst
