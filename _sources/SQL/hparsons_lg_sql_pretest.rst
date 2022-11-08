@@ -2,21 +2,29 @@ Pre Test
 -----------------------------------------------------
 
 Please try to solve each of the following problems to the best of your ability.
-It is **OK** to not know the correct answers!  If you don't know the answer just select
-option E (I don't know).
+It is **OK** to not know the correct answers!
+Please do not refer to other resources.
 
 Problems
 ==============
 
-.. timed:: hparsons_lg_sql_timed_pre
-   :timelimit: 14
+.. timed:: hparsons_lg_sql_pre
+   :timelimit: 15
    :noresult:
    :nofeedback:
    :nopause:
 
    .. selectquestion:: hparsons_lg_sql_pretest_1
-      :fromid: hparsons_lg_sql_test_mcq_example_pre
-      :points: 1
+      :fromid: hparsons_lg_sql_test_bank_pre_select
+      :points: 10
+
+   .. selectquestion:: hparsons_lg_sql_pretest_2
+      :fromid: hparsons_lg_sql_test_bank_pre_update
+      :points: 10
+   
+   .. selectquestion:: hparsons_lg_sql_pretest_3
+      :fromid: hparsons_lg_sql_test_bank_pre_join
+      :points: 10
 
 
 What to do next
