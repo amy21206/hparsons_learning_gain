@@ -1,4 +1,4 @@
-Problem Bank for Practice Problems and Test Problems
+Problem Bank for Pre Test Problems
 -----------------------------------------------------
 
 .. activecode:: hparsons_lg_sql_test_bank_pre_select
@@ -6,12 +6,15 @@ Problem Bank for Practice Problems and Test Problems
 
     We use SQL to manage the equipment in a gym. Our current table ``equipment`` looks like this:
 
-    .. image:: https://i.ibb.co/S680Gxf/pretest-1.png
+    .. image:: https://i.ibb.co/zbxr8M6/pretest-equipment.png
     
     To help us refill some sport equipments that are low in stock, 
     please write a SELECT statement to retrieve the ``name`` and  ``brand`` of all items 
     in the table ``equipment`` that belongs to ``sport`` category of "table_tennis" and
     has a ``quantity`` of less than 10.
+
+    note: When you run the code, there will be several execution results.
+    Please only refer to the unittest and the **last** execution result for debugging purposes.
 
     ~~~~
     DROP TABLE IF EXISTS equipment;
@@ -23,7 +26,6 @@ Problem Bank for Practice Problems and Test Problems
         ('4', 'table_tennis_ball', 'table_tennis', 'dhs', '5'),
         ('5', 'basketball', 'basketball', 'nike', '7');
     ^^^^
-    SELECT name, brand FROM equipment WHERE sport = "table_tennis" AND quantity < 10
     ====
     assert 0,0 == table_tennis_racket
     assert 0,1 == stiga
@@ -34,9 +36,17 @@ Problem Bank for Practice Problems and Test Problems
 .. activecode:: hparsons_lg_sql_test_bank_pre_update
     :language: sql
 
-    We just bought 5 more of every equipment used for table tennis in the ``equipment`` table.
-    Please write an UPDATE statement to update all entries has a value of ``table_tennis`` in 
-    the column of ``sport`` to add to the ``quantity`` by 5.
+    In the same ``equipment`` table:
+
+    .. image:: https://i.ibb.co/zbxr8M6/pretest-equipment.png
+
+    We just bought more equipment for table tennis.
+
+    Please write an UPDATE statement that: for all entries which ``sport`` column is ``table_tennis``,
+    add the ``quantity`` by 5.
+
+    note: When you run the code, there will be several execution results.
+    Please only refer to the unittest and the **last** execution result for debugging purposes.
     ~~~~
     DROP TABLE IF EXISTS equipment;
     create table "equipment" ("id" INTEGER, "name" TEXT, "sport" TEXT, "brand" TEXT, "quantity" INTEGER);
@@ -47,8 +57,7 @@ Problem Bank for Practice Problems and Test Problems
         ('4', 'table_tennis_ball', 'table_tennis', 'dhs', '5'),
         ('5', 'basketball', 'basketball', 'nike', '7');
     ^^^^
-    -- Your code here:
-    UPDATE equipment SET quantity = quantity + 5 WHERE sport = "table_tennis"
+    -- Write your code here:
 
     -- The following line separates with your code and selects all data for testing. Please do not modify.
     ;
@@ -63,16 +72,25 @@ Problem Bank for Practice Problems and Test Problems
 .. activecode:: hparsons_lg_sql_test_bank_pre_join
     :language: sql
 
-    As students can rent items from the gym, we have another table ``rental`` that looks like this:
+    Aside from the ``equipment`` table:
 
-    .. image:: https://i.ibb.co/vz8K8sx/pretest-2.png
+    .. image:: https://i.ibb.co/zbxr8M6/pretest-equipment.png
+
+
+    As students can rent items from the gym, we have another table ``rental``:
+
+    .. image:: https://i.ibb.co/7WNs12N/pretest-rental.png
 
     Where the ``equipment_id`` in this table refers to the ``id`` in the ``equipment`` table above.
     To provide sports-related recommendations for people, we want to know when each individual
     played a certain sport.
+
     Please write a statement using SELECT and JOIN to: select the ``sport`` from the ``equipment``
     table and ``name`` and ``date`` from the ``rental`` table, where the ``equipment_id`` in the
     ``rental`` table is the same as the ``id`` in the ``equipment`` table.
+
+    note: When you run the code, there will be several execution results.
+    Please only refer to the unittest and the **last** execution result for debugging purposes.
 
     ~~~~
     DROP TABLE IF EXISTS equipment;
@@ -91,7 +109,6 @@ Problem Bank for Practice Problems and Test Problems
         ('Charlie', '3', '2022-11-08'),
         ('Dale', '5', '2022-11-09');
     ^^^^
-    SELECT equipment.sport, rental.name, rental.date FROM equipment JOIN rental ON equipment.id = rental.equipment_id
     ====
     assert 2,1 == Charlie
     assert 3,1 == Dale

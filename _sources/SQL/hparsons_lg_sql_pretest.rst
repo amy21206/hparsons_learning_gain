@@ -3,82 +3,33 @@ Pre Test
 
 Please try to solve each of the following problems to the best of your ability.
 It is **OK** to not know the correct answers!
-Please do not refer to other resources.
+Please do **not** refer to other resources.
 
 Problems
 ==============
 
-.. timed:: hparsons_lg_sql_pre
-   :timelimit: 15
+.. timed:: hparsons_learning_gain_sql_pretest_timed
+   :timelimit: 8
    :noresult:
    :nofeedback:
    :nopause:
 
-   .. selectquestion:: hparsons_lg_sql_pretest_1
+   .. selectquestion:: hparsons_lg_sql_pretest_timed_1
       :fromid: hparsons_lg_sql_test_bank_pre_select
       :points: 10
 
-   .. selectquestion:: hparsons_lg_sql_pretest_2
+   .. selectquestion:: hparsons_lg_sql_pretest_timed_2
       :fromid: hparsons_lg_sql_test_bank_pre_update
       :points: 10
    
-   .. selectquestion:: hparsons_lg_sql_pretest_3
+   .. selectquestion:: hparsons_lg_sql_pretest_timed_3
       :fromid: hparsons_lg_sql_test_bank_pre_join
       :points: 10
 
-
-What to do next
+Thank You 🤗
 ============================
+🎉 We appreciate your participation in our study.
 
-.. raw:: html
+We will provide the result of the questions after next class.
 
-    <p>Click on the following link to go the practice problems: <a id="hparsons_lg_sql_practice"><font size="+2">Practice Problems</font></a></p>
-    <p>By the way, this time you will always get the same type of practice even if you navigate back and forth =)</p>
-
-.. raw:: html
-
-    <script type="text/javascript" >
-
-      function getCookie(cname) {
-         let name = cname + "=";
-         let decodedCookie = decodeURIComponent(document.cookie);
-         let ca = decodedCookie.split(';');
-         for(let i = 0; i <ca.length; i++) {
-            let c = ca[i];
-            while (c.charAt(0) == ' ') {
-               c = c.substring(1);
-            }
-            if (c.indexOf(name) == 0) {
-               return c.substring(name.length, c.length);
-            }
-         }
-         return "";
-      }
-
-      function setCookie(cname, cvalue) {
-         document.cookie = cname + "=" + cvalue + ";";
-      }
-
-      window.onload = function() {
-
-         a = document.getElementById("hparsons_lg_sql_practice")
-
-         // get prev set cookie
-         var EXP_COOKIE = 'hparsons_lg_sql'
-         var cond = getCookie(EXP_COOKIE);
-         
-         // if no prev set cookie: generate random condition and set cookie
-         if (cond != 'wr' && cond != 'hp') {
-            var v = Math.floor(Math.random() * 2);
-            cond = v == 0 ? 'wr' : 'hp';
-            setCookie(EXP_COOKIE, cond);
-         }
-
-         if (cond == 'wr') {
-            a.href = "hparsons_lg_sql_practice_W.html"
-         } else if (cond == 'hp') {
-            a.href = "hparsons_lg_sql_practice_H.html"
-         }
-
-      };
-    </script>
+If you have questions or feedback, or want to know more, please contact Zihan Wu (ziwu@umich.edu).
