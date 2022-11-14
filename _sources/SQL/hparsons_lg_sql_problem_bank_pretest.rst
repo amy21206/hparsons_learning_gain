@@ -10,7 +10,7 @@ Problem Bank for Pre Test Problems
     
     To help us refill some sport equipments that are low in stock, 
     please write a SELECT statement to retrieve the ``name`` and  ``brand`` of all items 
-    in the table ``equipment`` that belongs to ``sport`` category of "table_tennis" and
+    in the table ``equipment`` that is ``sport`` "table_tennis" and
     has a ``quantity`` of less than 10.
 
     note: When you run the code, there will be several execution results.

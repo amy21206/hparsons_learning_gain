@@ -2,25 +2,34 @@ Post Test
 -----------------------------------------------------
 
 Please try to solve each of the following problems to the best of your ability.
-It is **OK** to not know the correct answers!  If you don't know the answer just select
-option E (I don't know).
+It is **OK** to not know the correct answers!
+Please do **not** refer to other resources.
 
 Problems
 ==============
 
-.. timed:: hparsons_lg_sql_timed_post
-   :timelimit: 14
+.. timed:: hparsons_learning_gain_sql_posttest_timed
+   :timelimit: 8
    :noresult:
    :nofeedback:
    :nopause:
 
-   .. selectquestion:: hparsons_lg_sql_posttest_1
-      :fromid: hparsons_lg_sql_test_mcq_example_post
-      :points: 1
+   .. selectquestion:: hparsons_lg_sql_posttest_timed_1
+      :fromid: hparsons_lg_sql_test_bank_post_select
+      :points: 10
 
+   .. selectquestion:: hparsons_lg_sql_posttest_timed_2
+      :fromid: hparsons_lg_sql_test_bank_post_update
+      :points: 10
+   
+   .. selectquestion:: hparsons_lg_sql_posttest_timed_3
+      :fromid: hparsons_lg_sql_test_bank_post_join
+      :points: 10
 
 Thank You 🤗
 ============================
-🎉 Thank you for taking part in this study!  We appreciate your time on this. 
+🎉 We appreciate your participation in our study.
 
-If you are interested to learn more about our research or want to share any thoughts, please contact Zihan Wu at ziwu@umich.edu.
+We will provide the result of the questions after next class.
+
+If you have questions or feedback, or want to know more, please contact Zihan Wu (ziwu@umich.edu).
