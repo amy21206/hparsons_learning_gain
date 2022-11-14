@@ -1,9 +1,11 @@
 Practice Problems - Mixed-up Code
 -----------------------------------------------------
 
-Please answer
-the following problems to the best of your ability without any
-outside help. You can stop working on a problem after you worked
+Now, let's spend 15 minutes to practice what we just learned!
+
+**Please do not refer back to the previous page or outside resources.**
+
+You can stop working on a problem after you worked
 on it for about three minutes without solving it.
 
 Problems

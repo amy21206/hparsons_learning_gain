@@ -1,7 +1,7 @@
 Introduction to AND, UPDATE, and JOIN
 --------------------------------------
 
-First, let's learn about ``AND``, ``UPDATE``, and ``JOIN`` in SQL!
+First, let's spend 8 minutes to learn about ``AND``, ``UPDATE``, and ``JOIN`` in SQL!
 
 AND Keyword
 ==================================================
@@ -112,8 +112,7 @@ What to do next
     <p>Click on the following link to go the practice problems: <a id="hparsons_lg_sql_practice"><font size="+2">Practice Problems</font></a></p>
     <p>By the way, this time you will always get the same type of practice even if you navigate back and forth =)</p>
 
-.. raw:: html
-    <script type="text/javascript" >
+    <script type="text/javascript">
 
       function getCookie(cname) {
          let name = cname + "=";

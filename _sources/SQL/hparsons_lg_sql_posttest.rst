@@ -9,7 +9,7 @@ Problems
 ==============
 
 .. timed:: hparsons_learning_gain_sql_posttest_timed
-   :timelimit: 8
+   :timelimit: 10
    :noresult:
    :nofeedback:
    :nopause:

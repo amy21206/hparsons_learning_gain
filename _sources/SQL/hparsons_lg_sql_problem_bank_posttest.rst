@@ -42,7 +42,7 @@ Problem Bank for Post Test Problems
     add the ``quantity`` by 10.
 
     note: When you run the code, there will be several execution results.
-    Please only refer to the unittest and the **last** execution result for debugging purposes.
+    Please only refer to the **last** execution result for debugging purposes.
     ~~~~
     DROP TABLE IF EXISTS goods;
     create table "goods" ("id" INTEGER, "name" TEXT, "type" TEXT, "brand" TEXT, "quantity" INTEGER);
