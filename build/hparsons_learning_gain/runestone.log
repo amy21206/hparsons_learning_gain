@@ -1,0 +1,1575 @@
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:38] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:39] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:40] code 404, message File not found
+127.0.0.1 - - [01/Nov/2022 12:41:40] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2022 12:41:42] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:41:42] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:41:42] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:41:42] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:41:42] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+
+Aborted!
+127.0.0.1 - - [01/Nov/2022 12:42:20] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:20] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:20] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:21] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:22] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:22] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:22] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:22] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:22] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:22] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:22] code 404, message File not found
+127.0.0.1 - - [01/Nov/2022 12:42:22] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:51] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:52] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:42:53] code 404, message File not found
+127.0.0.1 - - [01/Nov/2022 12:42:53] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [01/Nov/2022 12:43:09] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:09] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:09] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:09] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:09] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:09] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:09] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:09] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:10] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/724.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/254.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/730.5134e522d95b9385.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/556.7b3561013caaee14.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/338.4a5c4850b4a620cd.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:11] "GET /_static/144.4702de71f3988031.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:12] "GET /_static/866.acc4fa2810869869.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:12] "GET /_static/724.dff5eb7362a91bd9.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:12] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [01/Nov/2022 12:43:12] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [01/Nov/2022 12:43:12] code 404, message File not found
+127.0.0.1 - - [01/Nov/2022 12:43:12] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2022 12:43:13] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [01/Nov/2022 12:43:13] "POST /assessment/get_question_source HTTP/1.1" 501 -
+127.0.0.1 - - [01/Nov/2022 12:43:22] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:22] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:43:22] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:43:22] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:43:22] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:43:22] "GET /_static/248.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:22] "GET /_static/248.1784553439a4d09a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:23] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:43:23] code 404, message File not found
+127.0.0.1 - - [01/Nov/2022 12:43:23] "GET /_static/test.db HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2022 12:44:49] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:49] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:50] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/248.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:51] "GET /_static/248.1784553439a4d09a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:52] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:44:52] code 404, message File not found
+127.0.0.1 - - [01/Nov/2022 12:44:52] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2022 12:44:52] "GET /_static/test.db HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:45:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [01/Nov/2022 12:45:05] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [01/Nov/2022 12:45:08] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:08] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:08] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:08] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:09] "GET /_static/test.db HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:10] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [01/Nov/2022 12:45:10] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [01/Nov/2022 12:45:15] "GET /SQL/hparsons_lg_sql_practice_W.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:45:15] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:45:16] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:16] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [01/Nov/2022 12:45:16] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [01/Nov/2022 12:45:27] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:27] "GET /_static/test.db HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:45:27] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:28] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:28] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:28] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:45:28] "GET /_static/test.db HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:46:27] "GET /SQL/hparsons_lg_sql_posttest.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2022 12:46:27] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:46:28] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:46:28] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:46:28] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2022 12:46:28] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [01/Nov/2022 12:46:28] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [01/Nov/2022 12:46:29] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [01/Nov/2022 12:46:29] "POST /assessment/get_question_source HTTP/1.1" 501 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 14:17:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:05] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:05] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/CodeChat.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:06] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:07] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:07] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:07] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:07] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:07] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:07] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:07] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:07] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 14:17:07] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/366.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/724.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/254.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:10] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:11] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:11] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:11] "GET /_static/730.5134e522d95b9385.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:11] "GET /_static/556.7b3561013caaee14.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:11] "GET /_static/338.4a5c4850b4a620cd.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:11] "GET /_static/144.4702de71f3988031.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:11] "GET /_static/866.acc4fa2810869869.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:17:11] "GET /_static/724.dff5eb7362a91bd9.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:31:02] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:31:02] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:31:02] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:31:02] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:31:02] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:31:03] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 14:31:03] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 14:31:05] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:31:12] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:12] "GET /_static/737.css HTTP/1.1" 200 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 14:31:45] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:45] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:45] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:45] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:45] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:45] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:45] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:45] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:46] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:47] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:48] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:31:48] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:31:48] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:31:48] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:31:48] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:31:48] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 14:31:48] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 14:31:48] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 14:31:48] "GET /SQL/pretest_gym.db HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 14:32:23] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:32:23] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:32:23] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:32:23] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:32:23] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:32:24] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:32:24] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:32:24] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:32:24] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:32:24] "GET /SQL/pretest_gym.db HTTP/1.1" 200 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 14:34:06] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:06] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:06] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:06] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:06] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:06] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:06] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:06] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:07] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:08] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:09] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:34:09] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:34:09] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:34:09] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:34:09] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:34:09] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 14:34:09] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 14:34:09] "GET /SQL/pretest_gym.db HTTP/1.1" 304 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 14:45:43] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:43] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:43] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:43] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:43] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:43] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:43] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:43] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:44] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:45] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:46] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:45:46] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:45:46] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:46] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:45:46] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:45:46] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:45:46] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:45:46] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:45:46] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:45:46] "GET /SQL/pretest_gym.db HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 14:45:46] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 14:45:46] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 14:47:20] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:47:20] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:47:20] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:47:20] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:47:20] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 14:47:21] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:47:21] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:47:21] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:47:21] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:47:21] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:47:21] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:47:21] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 14:47:21] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 14:47:21] "GET /SQL/pretest_gym.db HTTP/1.1" 304 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 15:06:10] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:10] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:10] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:10] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:10] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:13] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:13] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:06:13] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:06:13] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:06:13] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:06:14] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:06:14] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:06:25] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:26] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:06:26] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:06:26] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:06:26] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:06:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:06:26] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:06:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:06:26] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:06:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:06:26] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:06:26] "GET /SQL/pretest_gym.db HTTP/1.1" 304 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 15:06:51] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:51] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:52] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:53] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:54] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:06:54] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:06:54] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:06:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:06:54] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:06:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:06:54] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:06:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:06:54] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:06:54] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 15:06:54] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 15:09:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:09:57] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:09:57] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:09:57] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:09:57] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:09:58] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 15:09:58] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 15:10:03] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:10:03] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:10:04] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:10:04] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:10:04] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:10:04] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:04] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:07] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:07] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:07] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:08] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:08] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:08] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:08] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:08] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:08] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:08] "GET /SQL/pretest_gym.db HTTP/1.1" 304 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:24] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:25] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:26] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:26] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:26] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:10:26] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:10:26] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 15:10:26] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:27] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:28] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:29] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:29] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:29] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:29] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:29] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:29] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:29] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:30] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:16:30] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:16:30] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:16:30] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:16:30] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:16:30] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:16:30] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:16:30] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:16:30] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:16:30] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 15:16:30] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 15:16:30] "GET /SQL/pretest_gym.db HTTP/1.1" 304 -
+
+Aborted!
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 15:20:55] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:55] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:55] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:55] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:55] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:55] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:55] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:55] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:56] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:57] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:58] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:20:58] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:20:58] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:20:58] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:20:58] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:20:58] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:20:58] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:20:58] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:20:58] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:20:58] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 15:20:58] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [08/Nov/2022 15:23:13] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:13] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:13] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:13] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:13] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:13] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:13] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:13] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:14] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:15] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:16] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:23:16] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:23:16] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2022 15:23:16] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:23:16] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:23:16] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:23:16] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:23:16] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:23:16] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:23:16] code 404, message File not found
+127.0.0.1 - - [08/Nov/2022 15:23:16] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2022 15:23:58] "GET /SQL/hparsons_lg_sql_problem_bank.html HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:23:58] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:23:59] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:23:59] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:23:59] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [08/Nov/2022 15:23:59] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:23:59] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:23:59] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:23:59] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:23:59] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:23:59] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [08/Nov/2022 15:23:59] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [08/Nov/2022 15:23:59] "POST /assessment/gethist HTTP/1.1" 501 -
+
+Aborted!
+
+Aborted!
+127.0.0.1 - - [09/Nov/2022 15:57:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:07] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:07] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:07] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:07] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:07] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:07] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:08] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:09] code 404, message File not found
+127.0.0.1 - - [09/Nov/2022 15:57:09] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [09/Nov/2022 15:57:14] "GET /SQL/hparsons_lg_sql_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:14] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Nov/2022 15:57:14] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Nov/2022 15:57:14] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Nov/2022 15:57:14] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Nov/2022 15:57:15] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 15:57:15] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [09/Nov/2022 15:57:35] "GET /SQL/hparsons_lg_sql_problem_bank_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 15:57:35] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Nov/2022 15:57:35] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Nov/2022 15:57:36] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Nov/2022 15:57:36] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Nov/2022 15:57:36] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 15:57:36] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [09/Nov/2022 15:57:36] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 15:57:36] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [09/Nov/2022 15:57:36] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 15:57:36] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [09/Nov/2022 15:57:36] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 15:57:36] "POST /assessment/gethist HTTP/1.1" 501 -
+
+Aborted!
+127.0.0.1 - - [09/Nov/2022 17:05:19] "GET /SQL/hparsons_lg_sql_problem_bank_pretest.html HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:19] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:19] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:19] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:19] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:19] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:19] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:20] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:21] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:21] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:21] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:21] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:21] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:21] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:21] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 17:05:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 17:05:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 17:05:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [09/Nov/2022 17:05:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [09/Nov/2022 17:05:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [09/Nov/2022 17:05:24] code 404, message File not found
+127.0.0.1 - - [09/Nov/2022 17:05:24] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:32] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:33] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:31:34] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 13:31:34] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:02] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:03] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:32:04] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 13:32:04] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [14/Nov/2022 13:33:45] "GET /SQL/hparsons_lg_sql_knowledge_intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:45] "GET /SQL/hparsons_lg_sql_knowledge_intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:45] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:33:45] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:33:45] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:33:45] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:33:46] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:46] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:46] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:46] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:46] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:46] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:46] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:47] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:33:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:33:47] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:33:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:33:47] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:33:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:33:47] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:33:47] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:33:47] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:00] "GET /SQL/hparsons_lg_sql_practice_W.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:39:00] "GET /SQL/hparsons_lg_sql_practice_W.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:39:00] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:39:00] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:39:00] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:39:00] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:39:01] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:01] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:01] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:01] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:01] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:01] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:01] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:01] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:01] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:01] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:01] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:01] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:05] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:05] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:05] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:05] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:05] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:06] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:06] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:06] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:06] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:06] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:06] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:06] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:06] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:06] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:06] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:39:06] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:39:06] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:20] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:47:20] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:21] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:21] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:21] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:21] "GET /_static/248.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:47:21] "GET /_static/248.1784553439a4d09a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:47:21] "GET /SQL/hparsons_lg_sql_practice_W.html HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:22] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:22] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /SQL/hparsons_lg_sql_posttest.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /_static/724.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /_static/254.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /_static/730.5134e522d95b9385.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /_static/556.7b3561013caaee14.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /_static/338.4a5c4850b4a620cd.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /_static/144.4702de71f3988031.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /_static/866.acc4fa2810869869.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:30] "GET /_static/724.dff5eb7362a91bd9.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:47:31] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:31] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:34] "POST /assessment/get_question_source HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:37] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:37] "POST /assessment/get_question_source HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:38] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:38] "POST /assessment/get_question_source HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:52] "GET /SQL/hparsons_lg_sql_problem_bank_posttest.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:47:53] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:53] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:53] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:53] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:53] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:53] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:47:53] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:47:53] "POST /assessment/gethist HTTP/1.1" 501 -
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 13:48:51] "GET /SQL/hparsons_lg_sql_problem_bank_posttest.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:51] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:52] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:53] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:54] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:48:54] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:48:54] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:48:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:48:54] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:48:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:48:54] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:48:54] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:48:54] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:48:55] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 13:48:55] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /SQL/hparsons_lg_sql_problem_bank_posttest.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:49] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:50] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:51] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:51] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:51] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:51] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:51] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:51] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:51] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:52] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:51:52] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:51:52] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:51:52] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:51:52] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:51:52] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:51:52] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:51:52] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:51:52] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:51:52] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 13:51:52] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [14/Nov/2022 13:52:25] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:52:25] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:52:25] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:52:25] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:52:25] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:52:27] "GET /SQL/hparsons_lg_sql_knowledge_intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:52:27] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:52:27] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:52:27] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:52:27] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:52:27] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:52:27] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:52:27] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:52:27] "POST /assessment/gethist HTTP/1.1" 501 -
+
+Aborted!
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /SQL/hparsons_lg_sql_knowledge_intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:17] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:18] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:19] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:19] "GET /_static/737.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:19] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:19] "GET /_static/921.359f64e8a76732ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:19] "GET /_static/266.a591aa228e0a7b5c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:19] "GET /_static/951.7067b2b9b0dd16c1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:19] "GET /_static/778.1623c1d4e87be9a2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:20] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:53:20] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:53:20] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:53:20] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:53:20] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:53:20] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:53:20] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:53:20] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:53:20] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:53:20] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 13:53:20] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [14/Nov/2022 13:54:06] "GET /SQL/hparsons_lg_sql_practice_W.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 13:54:06] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:54:06] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:54:06] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:54:06] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 13:54:07] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:54:07] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:54:07] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:54:07] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:54:07] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:54:07] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:54:07] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:54:07] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:54:07] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:54:07] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 13:54:07] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 13:54:07] "POST /assessment/gethist HTTP/1.1" 501 -
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/runtime.e297f60751a23c4e.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/637.d54be67956c5c660.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/runestone.cd169dca67cbadb5.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/921.359f64e8a76732ea.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/951.7067b2b9b0dd16c1.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/778.1623c1d4e87be9a2.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/266.a591aa228e0a7b5c.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/366.3d515c28c98ec81a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:18] "GET /_static/runestone.93e720e6c6581fb5.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:19] "GET /_static/366.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:19] "GET /_static/737.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:01:19] "GET /_static/637.0fa6cababf056764.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] "GET /SQL/hparsons_lg_sql_practice_W.html HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] "GET /_static/637.0fa6cababf056764.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] "GET /_static/runestone.93e720e6c6581fb5.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 14:03:33] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 14:03:33] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 14:03:33] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 14:03:33] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 14:03:34] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [14/Nov/2022 14:03:34] "POST /assessment/gethist HTTP/1.1" 501 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/runtime.e297f60751a23c4e.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/637.d54be67956c5c660.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/runestone.cd169dca67cbadb5.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/366.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/737.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/921.359f64e8a76732ea.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/951.7067b2b9b0dd16c1.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/266.a591aa228e0a7b5c.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/778.1623c1d4e87be9a2.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/366.3d515c28c98ec81a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/runestone.93e720e6c6581fb5.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/637.0fa6cababf056764.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/runtime.e297f60751a23c4e.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/637.d54be67956c5c660.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/runestone.cd169dca67cbadb5.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/248.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/366.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:34] "GET /_static/366.3d515c28c98ec81a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:03:35] "GET /_static/248.1784553439a4d09a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/runtime.e297f60751a23c4e.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/637.d54be67956c5c660.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/runestone.cd169dca67cbadb5.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/366.3d515c28c98ec81a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/248.1784553439a4d09a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/248.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/runestone.93e720e6c6581fb5.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/366.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:05:20] "GET /_static/637.0fa6cababf056764.css.map HTTP/1.1" 200 -
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/248.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:13] "GET /_static/248.1784553439a4d09a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/637.0fa6cababf056764.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/runestone.93e720e6c6581fb5.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/runtime.e297f60751a23c4e.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/637.d54be67956c5c660.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/runestone.cd169dca67cbadb5.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/248.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/366.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/248.1784553439a4d09a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:12:14] "GET /_static/366.3d515c28c98ec81a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:22] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:22] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:23] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/248.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/248.1784553439a4d09a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/runestone.93e720e6c6581fb5.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:24] "GET /_static/637.0fa6cababf056764.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:25] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 14:16:25] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [14/Nov/2022 14:16:25] "GET /_static/runtime.e297f60751a23c4e.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:25] "GET /_static/637.d54be67956c5c660.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:25] "GET /_static/runestone.cd169dca67cbadb5.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:25] "GET /_static/366.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:25] "GET /_static/248.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:25] "GET /_static/248.1784553439a4d09a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:25] "GET /_static/366.3d515c28c98ec81a.bundle.js.map HTTP/1.1" 200 -
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 14:16:36] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:36] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/637.0fa6cababf056764.css?v=F9484CEF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/runestone.93e720e6c6581fb5.css?v=C8BFD820 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:37] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/637.d54be67956c5c660.bundle.js?v=915B1670 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/runtime.e297f60751a23c4e.bundle.js?v=AE806FD9 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/runestone.cd169dca67cbadb5.bundle.js?v=F147CE13 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/366.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/248.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/366.3d515c28c98ec81a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/248.1784553439a4d09a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/runestone.93e720e6c6581fb5.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:38] "GET /_static/637.0fa6cababf056764.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:39] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 14:16:39] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [14/Nov/2022 14:16:39] "GET /_static/runtime.e297f60751a23c4e.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:39] "GET /_static/637.d54be67956c5c660.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:39] "GET /_static/runestone.cd169dca67cbadb5.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:39] "GET /_static/248.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:39] "GET /_static/366.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:39] "GET /_static/248.1784553439a4d09a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:16:39] "GET /_static/366.3d515c28c98ec81a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /SQL/hparsons_lg_sql_practice_H.html HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/637.0fa6cababf056764.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/runestone.93e720e6c6581fb5.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/runtime.e297f60751a23c4e.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/637.d54be67956c5c660.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/runestone.cd169dca67cbadb5.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/366.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:37] "GET /_static/248.css.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:38] "GET /_static/248.1784553439a4d09a.bundle.js.map HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:17:38] "GET /_static/366.3d515c28c98ec81a.bundle.js.map HTTP/1.1" 200 -
+
+Aborted!
+127.0.0.1 - - [14/Nov/2022 14:30:23] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:23] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/runestone.2758119a906acc88.css?v=57CC8BBF HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:24] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/runtime.f365e411a0015b33.bundle.js?v=A6D3B81A HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33 HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/runestone.d2c932baa49750ec.bundle.js?v=C974C96C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /SQL/hparsons_lg_sql_knowledge_intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:25] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/runestone.d2c932baa49750ec.bundle.js?v=C974C96C HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.css HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.9ce63d41681f3f61.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/vendors-node_modules_codemirror_mode_clike_clike_js-node_modules_codemirror_mode_javascript_j-f062af.361cc1f1ee5037e2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/vendors-node_modules_codemirror_addon_edit_matchbrackets_js-node_modules_codemirror_addon_hin-ab90ac.524b29ecf68e550d.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/runestone_codelens_js_pytutor-embed_bundle_js.5ab33845a69495ce.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:26] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.a379142b873e03bb.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Nov/2022 14:30:27] code 404, message File not found
+127.0.0.1 - - [14/Nov/2022 14:30:27] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [25/Jan/2023 10:36:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:19] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:19] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:19] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:19] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:19] "GET /_static/runtime.91cc72d5cfbe283d.bundle.js?v=42038A10 HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 10:36:20] "GET /_static/runestone.b72e3c87d5d6a5c4.bundle.js?v=7F62FCCB HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 10:36:20] code 404, message File not found
+127.0.0.1 - - [25/Jan/2023 10:36:20] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /SQLthinkaloud/WR-PE-PB.html HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/vendors-node_modules_codemirror_mode_clike_clike_js-node_modules_codemirror_mode_javascript_j-f062af.cfbbd1c4edbaf7f9.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/vendors-node_modules_codemirror_addon_edit_matchbrackets_js-node_modules_codemirror_addon_hin-ab90ac.dd29d8546532c5e2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:23] "GET /_static/runestone_codelens_js_pytutor-embed_bundle_js.5ab33845a69495ce.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:24] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.6a3664affb8e76b4.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 10:36:24] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.2ae69324e00df6cc.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 10:36:24] code 404, message File not found
+127.0.0.1 - - [25/Jan/2023 10:36:24] "GET /_static/Q2.db HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [25/Jan/2023 17:52:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/runestone.6a241651e86ea3f2.css?v=373A9ADD HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/runtime.83ac2591bb784faa.bundle.js?v=4084690 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/runestone.ab3fea197c5809c4.bundle.js?v=B88EEAAD HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:24] code 404, message File not found
+127.0.0.1 - - [25/Jan/2023 17:52:24] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /SQLthinkaloud/WR-PE-PB.html HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/vendors-node_modules_codemirror_mode_clike_clike_js-node_modules_codemirror_mode_javascript_j-f062af.cfbbd1c4edbaf7f9.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.449e92be60da6a04.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/vendors-node_modules_codemirror_addon_edit_matchbrackets_js-node_modules_codemirror_addon_hin-ab90ac.dd29d8546532c5e2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/vendors-node_modules_micro-parsons_micro-parsons_micro-parsons_js-node_modules_micro-parsons_-974bff.0f9b5cad79b6204c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/runestone_codelens_js_pytutor-embed_bundle_js.5ab33845a69495ce.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.2c413e7d89c9794a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:27] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.ba7b5d53e5311948.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:28] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:52:28] code 404, message File not found
+127.0.0.1 - - [25/Jan/2023 17:52:28] "GET /_static/Q2.db HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /SQLthinkaloud/WR-PE-PB.html HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/runestone.6a241651e86ea3f2.css?v=373A9ADD HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/runtime.83ac2591bb784faa.bundle.js?v=4084690 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/runestone.ab3fea197c5809c4.bundle.js?v=B88EEAAD HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:12] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.css HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.449e92be60da6a04.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/vendors-node_modules_codemirror_mode_clike_clike_js-node_modules_codemirror_mode_javascript_j-f062af.cfbbd1c4edbaf7f9.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/vendors-node_modules_codemirror_addon_edit_matchbrackets_js-node_modules_codemirror_addon_hin-ab90ac.dd29d8546532c5e2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/runestone_codelens_js_pytutor-embed_bundle_js.5ab33845a69495ce.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.2c413e7d89c9794a.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/vendors-node_modules_micro-parsons_micro-parsons_micro-parsons_js-node_modules_micro-parsons_-974bff.0f9b5cad79b6204c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.ba7b5d53e5311948.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:13] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [25/Jan/2023 17:53:14] code 404, message File not found
+127.0.0.1 - - [25/Jan/2023 17:53:14] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+
+Aborted!

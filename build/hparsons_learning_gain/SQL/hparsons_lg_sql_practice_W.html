@@ -1,0 +1,540 @@
+<!-- ****************************************
+     |docname| - main template for this theme
+     **************************************** -->
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Practice Problems - Write Code &#8212; Runestone Interactive Overview</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/basic.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/accessibility.css?v=50109A2C" />
+    <link rel="stylesheet" type="text/css" href="../_static/webgldemo.css?v=B36B48D" />
+    <link rel="stylesheet" type="text/css" href="../_static/webglinteractive.css?v=910DF1E1" />
+    <link rel="stylesheet" type="text/css" href="../_static/matrixeq.css?v=58BC228F" />
+    <link rel="stylesheet" type="text/css" href="../_static/CodeChat.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/bootstrap-sphinx.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8" />
+    <link rel="stylesheet" type="text/css" href="../_static/runestone.6a241651e86ea3f2.css?v=373A9ADD" />
+
+
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script defer="" src="../_static/jquery.js"></script>
+    <script defer="" src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script defer="" src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script defer="" src="../_static/webglinteractive.js?v=2B768384"></script>
+    <script defer="" src="../_static/FileSaver.min.js?v=8408C997"></script>
+    <script defer="" src="../_static/animationbase.js?v=A043C3A7"></script>
+    <script defer="" src="../_static/matrixeq.js?v=D64CFA5A"></script>
+    <script defer="" src="../_static/html4css1.css?v=4533ACD3"></script>
+    <script defer="" src="../_static/runtime.83ac2591bb784faa.bundle.js?v=4084690"></script>
+    <script defer="" src="../_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33"></script>
+    <script defer="" src="../_static/runestone.ab3fea197c5809c4.bundle.js?v=B88EEAAD"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+
+
+<link rel="shortcut icon" href="/runestone/static/favicon.ico" type="image/ico" />
+
+
+
+<link rel="canonical" href="https://{{canonical_host}}{{new_server_prefix}}/books/published/{{base_course}}/{{pagepath}}" />
+
+
+<script>
+  eBookConfig = {};
+  
+    eBookConfig.useRunestoneServices = false;
+    eBookConfig.host = 'http://127.0.0.1:8000' || 'http://127.0.0.1:8000';
+    eBookConfig.app = eBookConfig.host+'/runestone';
+    eBookConfig.course = 'hparsons_learning_gain';
+    eBookConfig.basecourse = 'hparsons_learning_gain';
+    eBookConfig.isLoggedIn = false;
+    eBookConfig.enableCompareMe = eBookConfig.useRunestoneServices;
+    eBookConfig.new_server_prefix = '';
+  
+  eBookConfig.ajaxURL = eBookConfig.app+'/ajax/';
+  eBookConfig.logLevel = 0;
+  eBookConfig.loginRequired = false;
+  eBookConfig.build_info = "unknown";
+  eBookConfig.python3 = false;
+  eBookConfig.acDefaultLanguage = 'python' ? 'python' : 'python'
+  eBookConfig.runestone_version = '6.4.4.dev0';
+  eBookConfig.jobehost = '';
+  eBookConfig.proxyuri_runs = '';
+  eBookConfig.proxyuri_files = '';
+  eBookConfig.enable_chatcodes = false ? false : false;
+  eBookConfig.enableScratchAC = true;
+
+</script>
+
+<!-- Ad Serving Headers Only serve ads to Anonymous Users -->
+
+
+
+  </head><body>
+
+
+<!-- Begin navbar -->
+<div id="navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+
+    <div class="navbar-header">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type='button' class='navbar-toggle' data-toggle="collapse" data-target=".navbar-ex1-collapse" aria-label="navbar toggle">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <div>
+        
+        
+          <a class="brand-logo" href="/runestone/default/user/login" aria-label="Login"><img src="../_static/img/RAIcon.png" alt=""></a>
+        
+        <a class="navbar-brand" href="../index.html" aria-label="index-page">
+          
+          hparsons_learning_gain
+        </a>
+      </div>
+    </div>
+
+
+
+    <div class="navbar-collapse collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav navbar-right" >
+
+        <li class="divider-vertical"></li>
+        <li><span id="ad_warning"></span></li>
+        <li><span id="browsing_warning"></span></li>
+
+        <!-- social media dropdown -->
+        
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-globe" style="opacity: 0.9"><span class="visuallyhidden" aria-label="Social">Social</span></i>
+          </a>
+          <ul class="dropdown-menu social-menu">
+              <li>
+                <div>
+                  <b>Runestone in social media:</b>
+                </div>
+                <a href="https://twitter.com/iRunestone">Follow @iRunestone</a>
+                <a href="https://www.facebook.com/RunestoneInteractive">Our Facebook Page</a>
+              </li>
+
+              <li class="divider"></li>
+              <li>
+                <div>
+                  <b>Help support us:</b>
+                </div>
+                <div>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+                  ">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+
+                </div>
+              </li>
+          </ul>
+        </li><!-- end social media dropdown -->
+
+        <li class="divider-vertical"></li>
+        <!-- search dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-search" style='opacity:0.9;'><span class="visuallyhidden" aria-label="Search">Search</span></i>
+          </a>
+          <ul class='dropdown-menu'>
+            
+                <li><a href='../index.html' aria-label="index-page">Table of Contents</a></li>
+            
+            <li><a href='../genindex.html'>Book Index</a></li>
+            <li class="divider"></li>
+            <li style="width: 240px;">
+              <form class="navbar-search" style="margin:10px;" action="../search.html" method="get">
+                <div class="input-group">
+                  <input type="text" class="form-control" name="q" placeholder="Search this book" />
+                  <span class="input-group-btn">
+                    <button class="btn btn-primary" style="margin:0;" type="submit">
+                      <i class="glyphicon glyphicon-search"></i>
+                    </button>
+                  </span>
+                </div><!-- /input-group -->
+                <input type="hidden" name="check_keywords" value="yes" />
+                <input type="hidden" name="area" value="default" />
+              </form>
+            </li>
+          </ul>
+        </li>
+        <!-- end search dropdown -->
+
+        <li class="divider-vertical"></li>
+
+        
+        <li class="divider-vertical"></li>
+        <!-- <li id="scratch_ac_link"><a href="javascript:ACFactory.toggleScratchActivecode()">Scratch ActiveCode</a></li> -->
+
+        <!-- <li class="dropdown">             -->
+          <li id="scratch_ac_link" class="dropdown"><a href="javascript:runestoneComponents.popupScratchAC()">
+              <i class="glyphicon glyphicon-pencil" style="opacity:0.9;"><span class="visuallyhidden" aria-label="Scratch Activecode" >Scratch Activecode</span></i></a></li>
+        <!-- </li> -->
+
+        <li class="divider-vertical"></li>
+
+        
+        <!-- help menu dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-question-sign" style="opacity:0.9;"><span class="visuallyhidden" aria-label="Help">Help</span></i>
+          </a>
+          <ul class="dropdown-menu user-menu">
+            <li><a href='http://runestoneinteractive.org/pages/faq.html'>FAQ</a></li>
+            <li><a href='https://runestone.academy/ns/books/published/instructorguide/index.html'>Instructors Guide</a></li>
+            <li class="divider"></li>
+            <li><a href='http://runestoneinteractive.org'>About Runestone</a></li>
+            <li><a href='/runestone/default/reportabug?course=hparsons_learning_gain&page=hparsons_lg_sql_practice_W'>Report A Problem</a></li>
+          </ul>
+        </li>
+        <!-- end help menu dropdown -->
+
+        <li class="divider-vertical"></li>
+      
+      </ul>
+
+      <ul class="nav navbar-nav">
+        <li class="divider-vertical"></li>
+        
+          
+          <li class="divider-vertical"></li>
+        
+        <!-- 
+          
+
+<script>
+  opts = {'placement':'bottom',
+          'selector': '',
+          'delay': { show: 100, hide: 50}
+         };
+
+  window.addEventListener('load', (event) => {
+    $('#relations-prev').tooltip(opts);
+    $('#relations-next').tooltip(opts);
+  });
+</script>
+        -->
+        
+          <li></li>
+        
+      </ul>
+      </div> <!-- navbar-collapse -->
+    </div> <!-- navbar -->
+  </div> <!-- container -->
+
+
+<div class="container" id="continue-reading"></div>
+
+<div class="container" id="main-content" role="main">
+
+<!-- Ad Serving for Runestone Campaign -->
+
+
+  
+  <section id="practice-problems-write-code">
+<h1>Practice Problems - Write Code<a class="headerlink" href="#practice-problems-write-code" title="Permalink to this heading">¶</a></h1>
+<p>Now, let’s spend 15 minutes to practice what we just learned!</p>
+<p><strong>Please do not refer back to the previous page or outside resources.</strong></p>
+<p>You can stop working on a problem after you worked
+on it for about three minutes without solving it.</p>
+<section id="problems">
+<h2>Problems<a class="headerlink" href="#problems" title="Permalink to this heading">¶</a></h2>
+
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=hparsons_lg_sql_practice_1_wr data-question_label="1">
+<div id=hparsons_lg_sql_practice_1_wr_question class="ac_question col-md-12">
+<p>In the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>Please write a SELECT statement to retrieve the <code class="docutils literal notranslate"><span class="pre">student_id</span></code>, <code class="docutils literal notranslate"><span class="pre">test_name</span></code>,
+and <code class="docutils literal notranslate"><span class="pre">english</span></code> of all entries whose <code class="docutils literal notranslate"><span class="pre">english</span></code> is lower than 60 and <code class="docutils literal notranslate"><span class="pre">math</span></code> is higher than 90.</p>
+<p>note: When you run the code, there will be several execution results.
+Please only refer to the unittest and the <strong>last</strong> execution result for debugging purposes.</p>
+
+</div>
+<textarea data-lang="sql" id="hparsons_lg_sql_practice_1_wr_editor" 
+      data-timelimit=25000     
+    data-audio=''      
+           data-wasm=/_static
+     style="visibility: hidden;">
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
+^^^^
+====
+assert 0,0 == 2
+assert 0,1 == midterm
+assert 1,0 == 3
+assert 1,1 == midterm
+</textarea>
+</div>
+</div>
+
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=hparsons_lg_sql_practice_2_wr data-question_label="2">
+<div id=hparsons_lg_sql_practice_2_wr_question class="ac_question col-md-12">
+<p>In the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>A student completed an extra assignment and got some additional points.</p>
+<p>Please write an UPDATE statement to change the entry whose <code class="docutils literal notranslate"><span class="pre">student_id</span></code> is 1, and set their math score for <code class="docutils literal notranslate"><span class="pre">final</span></code> <code class="docutils literal notranslate"><span class="pre">test_name</span></code> to 90.</p>
+<p>note: When you run the code, there will be several execution results.
+Please only refer to the unittest and the <strong>last</strong> execution result for debugging purposes.</p>
+
+</div>
+<textarea data-lang="sql" id="hparsons_lg_sql_practice_2_wr_editor" 
+      data-timelimit=25000     
+    data-audio=''      
+           data-wasm=/_static
+     style="visibility: hidden;">
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
+^^^^
+-- Write your code here:
+
+-- The following line separates with your code and selects all data for testing. Please do not modify.
+;
+SELECT * FROM grades
+====
+assert 1,1 == final
+assert 1,3 == 90
+assert 3,3 == 99
+</textarea>
+</div>
+</div>
+
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=hparsons_lg_sql_practice_3_wr data-question_label="3">
+<div id=hparsons_lg_sql_practice_3_wr_question class="ac_question col-md-12">
+<p>In the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>The instructors decided to add some points to all students as one test was too difficult.</p>
+<p>Please write an UPDATE statement to change all entries whose <code class="docutils literal notranslate"><span class="pre">test_name</span></code> is <code class="docutils literal notranslate"><span class="pre">midterm</span></code>,
+and add 10 points to their <code class="docutils literal notranslate"><span class="pre">english</span></code> score.</p>
+<p>note: When you run the code, there will be several execution results.
+Please only refer to the unittest and the <strong>last</strong> execution result for debugging purposes.</p>
+
+</div>
+<textarea data-lang="sql" id="hparsons_lg_sql_practice_3_wr_editor" 
+      data-timelimit=25000     
+    data-audio=''      
+           data-wasm=/_static
+     style="visibility: hidden;">
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
+^^^^
+-- Write your code here:
+
+-- The following line separates with your code and selects all data for testing. Please do not modify.
+;
+SELECT * FROM grades
+====
+assert 0,2 == 72
+assert 1,2 == 70
+assert 2,2 == 60
+assert 3,2 == 80
+assert 4,2 == 65
+</textarea>
+</div>
+</div>
+
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=hparsons_lg_sql_practice_4_wr data-question_label="4">
+<div id=hparsons_lg_sql_practice_4_wr_question class="ac_question col-md-12">
+<p>Aside from the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>We also have a <code class="docutils literal notranslate"><span class="pre">students</span></code> table:</p>
+<img alt="https://i.ibb.co/m4KxSMC/practice-students.png" src="https://i.ibb.co/m4KxSMC/practice-students.png" />
+<p>Now we want to match the student name to their math grades.</p>
+<p>Please write a statement using SELECT and JOIN to: select the <code class="docutils literal notranslate"><span class="pre">test_name</span></code> and <code class="docutils literal notranslate"><span class="pre">math</span></code>
+from the <code class="docutils literal notranslate"><span class="pre">grades</span></code>  table and <code class="docutils literal notranslate"><span class="pre">name</span></code> from the <code class="docutils literal notranslate"><span class="pre">students</span></code> table, where the <code class="docutils literal notranslate"><span class="pre">student_id</span></code>
+in the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table is the same as the <code class="docutils literal notranslate"><span class="pre">id</span></code> in the <code class="docutils literal notranslate"><span class="pre">students</span></code> table.</p>
+<p>note: When you run the code, there will be several execution results.
+Please only refer to the unittest and the <strong>last</strong> execution result for debugging purposes.</p>
+
+</div>
+<textarea data-lang="sql" id="hparsons_lg_sql_practice_4_wr_editor" 
+      data-timelimit=25000     
+    data-audio=''      
+           data-wasm=/_static
+     style="visibility: hidden;">
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
+DROP TABLE IF EXISTS students;
+create table "students" ("id" INTEGER, "name" TEXT);
+INSERT INTO students (id,name) VALUES
+    (1, 'Alex'),
+    (2, 'Blake'),
+    (3, 'Charlie');
+^^^^
+====
+assert 0,2 == Alex
+assert 3,2 == Blake
+</textarea>
+</div>
+</div>
+
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=hparsons_lg_sql_practice_5_wr data-question_label="5">
+<div id=hparsons_lg_sql_practice_5_wr_question class="ac_question col-md-12">
+<p>Aside from the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>We also have a <code class="docutils literal notranslate"><span class="pre">tests</span></code> table:</p>
+<img alt="https://i.ibb.co/KVTGNXh/practice-tests.png" src="https://i.ibb.co/KVTGNXh/practice-tests.png" />
+<p>Now we want to add the date information to the grades to see when the students took the tests.</p>
+<p>Please write a statement using SELECT and JOIN to: select the <code class="docutils literal notranslate"><span class="pre">date</span></code> and <code class="docutils literal notranslate"><span class="pre">name</span></code>
+from the <code class="docutils literal notranslate"><span class="pre">tests</span></code>  table and <code class="docutils literal notranslate"><span class="pre">student_id</span></code> from the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table,
+where the <code class="docutils literal notranslate"><span class="pre">test_name</span></code> in the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table is the same as the <code class="docutils literal notranslate"><span class="pre">name</span></code> in the <code class="docutils literal notranslate"><span class="pre">tests</span></code> table.</p>
+<p>note: When you run the code, there will be several execution results.
+Please only refer to the unittest and the <strong>last</strong> execution result for debugging purposes.</p>
+
+</div>
+<textarea data-lang="sql" id="hparsons_lg_sql_practice_5_wr_editor" 
+      data-timelimit=25000     
+    data-audio=''      
+           data-wasm=/_static
+     style="visibility: hidden;">
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
+DROP TABLE IF EXISTS tests;
+create table "tests" ("name" TEXT, "date" DATE);
+INSERT INTO tests (name,date) VALUES
+    ('midterm', '2022-10-15'),
+    ('final', '2022-11-13');
+^^^^
+====
+assert 0,0 == 2022-10-15
+assert 0,1 == midterm
+assert 0,2 == 1
+</textarea>
+</div>
+</div>
+</section>
+<section id="what-to-do-next">
+<h2>What to do next<a class="headerlink" href="#what-to-do-next" title="Permalink to this heading">¶</a></h2>
+<p>Click on the following link to go to the post test: <b><a id="hparsons_lg_sql_posttest"><font size="+2">Post Test</font></a></b></p><script type="text/javascript" >
+
+  function getCookie(cname) {
+    let name = cname + "=";
+    let decodedCookie = decodeURIComponent(document.cookie);
+    let ca = decodedCookie.split(';');
+    for(let i = 0; i <ca.length; i++) {
+        let c = ca[i];
+        while (c.charAt(0) == ' ') {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+  }
+
+  window.onload = function() {
+
+    a = document.getElementById("hparsons_lg_sql_posttest")
+    a.href = "hparsons_lg_sql_posttest.html"
+
+    // get prev set cookie
+    var EXP_COOKIE = 'hparsons_lg_sql_221115'
+    var cond = getCookie(EXP_COOKIE);
+    if (cond == 'hp') {
+      window.location.href = "hparsons_lg_sql_practice_H.html";
+    }
+  };
+
+</script></section>
+</section>
+
+
+  
+
+  <div id="scprogresscontainer">
+    You have attempted <span id="scprogresstotal"></span> of <span id="scprogressposs"></span> activities on this page <div id="subchapterprogress" aria-label="Page progress"></div>
+  </div>
+
+  <ul role="navigation" class="nextprev-list nextprev-list" aria-label="Change page">
+</ul>
+
+<script>
+window.addEventListener('load', (event) => {
+  $('#relations-prev').tooltip({'placement': 'right', 'delay': { show: 100, hide: 50}});
+  $('#relations-next').tooltip({'placement': 'left', 'delay': { show: 100, hide: 50}});
+});
+</script>
+
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      
+      | <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2017 Zihan Wu.
+      Created using <a href="http://runestoneinteractive.org/">Runestone</a> 6.4.4.dev0.
+    </p>
+  </div>
+</footer>
+
+
+
+
+<script>
+  window.addEventListener('load', (event) => {
+    runestoneComponents.getSwitch();
+  });
+</script>
+
+
+  </body>
+</html>

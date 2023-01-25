@@ -34,7 +34,7 @@ Problems
 
 .. hparsons:: hparsons_lg_sql_practice_A_1_pe
     :language: sql
-    :dburl: /_static/Q2.db
+    :randomize:
 
     In the ``grades`` table:
 
@@ -43,6 +43,15 @@ Problems
     Please write a SELECT statement to retrieve the ``student_id``, ``test_name``,
     and ``english`` of all entries whose ``english`` is lower than 60 and ``math`` is higher than 90.
     ~~~~
+    --hiddenprefix--
+    DROP TABLE IF EXISTS grades;
+    create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+    INSERT INTO grades (student_id,test_name,english,math) VALUES
+        ('1', 'midterm', 62, 84),
+        ('1', 'final', 70, 86),
+        ('2', 'midterm', 50, 95),
+        ('2', 'final', 80, 99),
+        ('3', 'midterm', 55, 91);
     --blocks--
     SELECT
     student_id, test_name, english
@@ -135,6 +144,21 @@ Problems
     from the ``grades``  table and ``name`` from the ``students`` table, where the ``student_id``
     in the ``grades`` table is the same as the ``id`` in the ``students`` table.
     ~~~~
+    --hiddenprefix--
+    DROP TABLE IF EXISTS grades;
+    create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+    INSERT INTO grades (student_id,test_name,english,math) VALUES
+        ('1', 'midterm', 62, 84),
+        ('1', 'final', 70, 86),
+        ('2', 'midterm', 50, 95),
+        ('2', 'final', 80, 99),
+        ('3', 'midterm', 55, 91);
+    DROP TABLE IF EXISTS students;
+    create table "students" ("id" INTEGER, "name" TEXT);
+    INSERT INTO students (id,name) VALUES
+        (1, 'Alex'),
+        (2, 'Blake'),
+        (3, 'Charlie');
     --blocks--
     SELECT
     grades.test_name, grades.math, students.name
@@ -174,17 +198,3 @@ Problems
     grades
     ON
     grades.test_name = tests.name
-
-
-.. raw:: html
-
-    <style>
-        .drag-area{
-            height: auto !important;
-            min-height: 42px;
-        }
-        .drop-area{
-            height: auto !important;
-            min-height: 42px;
-        }
-    </style>
