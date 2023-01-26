@@ -6,6 +6,7 @@ Problems
 
 .. activecode:: hparsons_lg_sql_practice_A_0_wr
     :language: sql
+    :showlastsql:
 
     In the ``grades`` table:
 
@@ -34,6 +35,7 @@ Problems
 
 .. hparsons:: hparsons_lg_sql_practice_A_1_pe
     :language: sql
+    :randomize:
 
     In the ``grades`` table:
 
@@ -90,6 +92,7 @@ Problems
 
 .. activecode:: hparsons_lg_sql_practice_A_3_wr
     :language: sql
+    :showlastsql:
 
     In the ``grades`` table:
 
