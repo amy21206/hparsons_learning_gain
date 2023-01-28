@@ -8,15 +8,13 @@ AND Keyword
 
 .. activecode:: mparsons_sql_ta_know_intro_and
     :language: sql
+    :showlastsql:
 
     Here are Alice's bookkeeping entries in the table ``bookkeeping``:
 
     .. image:: https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png
 
     Sometimes we want to select data with multiple constraints, and that can be done using ``AND``.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the **last** execution result that displays the entries.
 
     ~~~~
     DROP TABLE IF EXISTS bookkeeping;
@@ -37,15 +35,13 @@ UPDATE Keyword
 
 .. activecode:: mparsons_sql_ta_know_intro_update
     :language: sql
+    :showlastsql:
 
     With the same table ``bookkeeping``:
 
     .. image:: https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png
     
     Sometimes we want to update certain records.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the **last** execution result that displays the table.
 
     ~~~~
     DROP TABLE IF EXISTS bookkeeping;
@@ -74,15 +70,13 @@ JOIN Keyword
 
 .. activecode:: mparsons_sql_ta_know_intro_join
     :language: sql
+    :showlastsql:
 
     Consider as a publishing company, we have two table ``authors`` and ``books``:
 
     .. image:: https://i.ibb.co/98D76Dh/intro-join.png
     
     Sometimes we want to merge the information from different tables.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the display of the entries.
 
     ~~~~
     DROP TABLE IF EXISTS authors;
@@ -109,7 +103,17 @@ What to do next
 .. raw:: html
 
     <div>
-        Click on the following link to go to the practice problems based on your participant number:
+        Next, you will solve 6 SQL problems. 
+        <b>
+        Please "think aloud" during the process: verbalize what you are thinking while your are solving the problems, as if you were alone talking to yourself.
+        <br>
+        Please talk constantly.
+        If you are quiet for a long time, the experimentor will ask you to keep talking.
+        </b>
+        
+        <br>
+        Click on the following link to go to the practice problems based on your participant number (please ask the experimenter):
+        <br>
         <ul>
             <li><a href="A-WR-PE-PB.html">P01</a></li>
         </ul>

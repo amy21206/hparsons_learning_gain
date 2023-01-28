@@ -1,9 +1,5 @@
-Welcome to the study!
+How to Use The Tool
 -----------------------------------------------------
-
-Please "think aloud" during the process: talk constantly while you are solving the problems
-as if you were alone, talking to yourself.
-
 
 Solving Write Code Problems
 ==================================
@@ -13,9 +9,7 @@ in the input area and pass the unittests.
 
 See the video below for an example.
 
-**TODO: replace this video**
-
-.. youtube:: bNyHBwPA8Xk
+.. youtube:: pR_az72Q4kk
     :divid: mparsons_sql_ta_intro_wr_video
     :optional:
     :width: 425
@@ -59,14 +53,12 @@ code in the correct order on the bottom.
 There will also be extra blocks that are not needed in a correct solution
 that you can leave on the top row. 
 
-Click the "Check" button to check your solution.
+Click the "Check Me" button to check your solution.
 **It will highlight incorrect blocks if your answer is incorrect.**
 
 See the video below for an example.
 
-**TODO: replace this video**
-
-.. youtube:: YehVhjxLae0
+.. youtube:: MkzGsTVyQr4
     :divid: mparsons_sql_ta_intro_pb_video
     :optional:
     :width: 650
@@ -103,14 +95,12 @@ code in the correct order on the bottom.
 There will also be extra blocks that are not needed in a correct solution
 that you can leave on the top row. 
 
-Click the "Check" button to check your solution.
+Click the "Run" button to execute your code.
 **The difference between this problem and the previous one is that it will execute your code.**
 
 See the video below for an example.
 
-**TODO: replace this video**
-
-.. youtube:: YehVhjxLae0
+.. youtube:: 9OqabzxyKXE
     :divid: mparsons_sql_ta_intro_pe_video
     :optional:
     :width: 650
@@ -158,6 +148,6 @@ What to do next
     <div>
         Click on the following link to move on to knowledge introduction of "AND", "UPDATE", and "JOIN":
         <ul>
-            <li><a href="knowledge_intro.html">Knowledge Intro</a></li>
+            <li><a href="knowledge_intro.html">Introducing AND, UPDATE, and JOIN</a></li>
         </ul>
     </div>
