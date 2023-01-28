@@ -15,8 +15,6 @@ See the video below for an example.
 
 **TODO: replace this video**
 
-**TODO: for active code: add an option to select all data as result**
-
 .. youtube:: bNyHBwPA8Xk
     :divid: mparsons_sql_ta_intro_wr_video
     :optional:
@@ -121,9 +119,6 @@ See the video below for an example.
 
 Try to solve the following mixed-up code problem with execution feedback.
 
-
-**TODO: fix the output matrix is too long**
-
 .. hparsons:: mparsons_sql_ta_intro_pe
     :language: sql
     :randomize:
@@ -161,8 +156,8 @@ What to do next
 .. raw:: html
 
     <div>
-        Click on the following link to go to the practice problems based on your participant number:
+        Click on the following link to move on to knowledge introduction of "AND", "UPDATE", and "JOIN":
         <ul>
-            <li><a href="WR-PE-PB.html">P01</a></li>
+            <li><a href="knowledge_intro.html">Knowledge Intro</a></li>
         </ul>
     </div>

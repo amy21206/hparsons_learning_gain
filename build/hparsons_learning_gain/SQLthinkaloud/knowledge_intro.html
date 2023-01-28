@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
 
-    <title>Welcome to the study! &#8212; Runestone Interactive Overview</title>
+    <title>Introduction to AND, UPDATE, and JOIN &#8212; Runestone Interactive Overview</title>
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="../_static/basic.css" />
     <link rel="stylesheet" type="text/css" href="../_static/accessibility.css?v=50109A2C" />
@@ -205,7 +205,7 @@
             <li><a href='https://runestone.academy/ns/books/published/instructorguide/index.html'>Instructors Guide</a></li>
             <li class="divider"></li>
             <li><a href='http://runestoneinteractive.org'>About Runestone</a></li>
-            <li><a href='/runestone/default/reportabug?course=hparsons_learning_gain&page=tool_tutorial'>Report A Problem</a></li>
+            <li><a href='/runestone/default/reportabug?course=hparsons_learning_gain&page=knowledge_intro'>Report A Problem</a></li>
           </ul>
         </li>
         <!-- end help menu dropdown -->
@@ -252,159 +252,118 @@
 
 
   
-  <section id="welcome-to-the-study">
-<h1>Welcome to the study!<a class="headerlink" href="#welcome-to-the-study" title="Permalink to this heading">¶</a></h1>
-<p>Please “think aloud” during the process: talk constantly while you are solving the problems
-as if you were alone, talking to yourself.</p>
-<section id="solving-write-code-problems">
-<h2>Solving Write Code Problems<a class="headerlink" href="#solving-write-code-problems" title="Permalink to this heading">¶</a></h2>
-<p>If you see a problem like the one below you will need to write SQL statements
-in the input area and pass the unittests.</p>
-<p>See the video below for an example.</p>
-<p><strong>TODO: replace this video</strong></p>
-
-    <div class="runestone " style="margin-left: auto; margin-right:auto">
-        <div id="mparsons_sql_ta_intro_wr_video" data-component="youtube" class="align-center youtube-video"
-            data-video-height="344" data-question_label="1"
-            data-video-width="425" data-video-videoid="bNyHBwPA8Xk"
-            data-video-divid="mparsons_sql_ta_intro_wr_video" data-video-start="0"
-            data-video-end="-1" ></div>
-    </div>
-    <p>Try to finish writing the code for the following problem.</p>
+  <section id="introduction-to-and-update-and-join">
+<h1>Introduction to AND, UPDATE, and JOIN<a class="headerlink" href="#introduction-to-and-update-and-join" title="Permalink to this heading">¶</a></h1>
+<p>First, let’s spend 8 minutes to learn about <code class="docutils literal notranslate"><span class="pre">AND</span></code>, <code class="docutils literal notranslate"><span class="pre">UPDATE</span></code>, and <code class="docutils literal notranslate"><span class="pre">JOIN</span></code> in SQL!</p>
+<section id="and-keyword">
+<h2>AND Keyword<a class="headerlink" href="#and-keyword" title="Permalink to this heading">¶</a></h2>
 
 <div class="runestone explainer ac_section ">
-<div data-component="activecode" id=mparsons_sql_ta_intro_wr data-question_label="2">
-<div id=mparsons_sql_ta_intro_wr_question class="ac_question col-md-12">
-<p>in the <code class="docutils literal notranslate"><span class="pre">test</span></code> table:</p>
-<img alt="https://i.ibb.co/1s7NGNZ/test-database.png" src="https://i.ibb.co/1s7NGNZ/test-database.png" />
-<p>Please write a statement to select all data in the <code class="docutils literal notranslate"><span class="pre">test</span></code> table.</p>
+<div data-component="activecode" id=mparsons_sql_ta_know_intro_and data-question_label="1">
+<div id=mparsons_sql_ta_know_intro_and_question class="ac_question col-md-12">
+<p>Here are Alice’s bookkeeping entries in the table <code class="docutils literal notranslate"><span class="pre">bookkeeping</span></code>:</p>
+<img alt="https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png" src="https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png" />
+<p>Sometimes we want to select data with multiple constraints, and that can be done using <code class="docutils literal notranslate"><span class="pre">AND</span></code>.</p>
+<p>note: When you run the code, there will be several execution results.
+Please only refer to the <strong>last</strong> execution result that displays the entries.</p>
 
 </div>
-<textarea data-lang="sql" id="mparsons_sql_ta_intro_wr_editor" 
+<textarea data-lang="sql" id="mparsons_sql_ta_know_intro_and_editor" 
       data-timelimit=25000     
     data-audio=''      
            data-wasm=/_static
-    data-showlastsql="true" style="visibility: hidden;">
-DROP TABLE IF EXISTS test;
-create table "test" ("id" INTEGER, "name" TEXT, "age" INTEGER);
-INSERT INTO test (id,name,age) VALUES
-    ('1', 'Alice', 24),
-    ('2', 'Bob', 46),
-    ('3', 'Carol', 53);
+     style="visibility: hidden;">
+DROP TABLE IF EXISTS bookkeeping;
+create table "bookkeeping" ("date" DATE, "category" TEXT, "item" TEXT, "price" FLOAT);
+INSERT INTO bookkeeping (date,category,item,price) VALUES
+    ('2022-10-27', 'electronics', 'keyboard', '98.8'),
+    ('2022-10-30', 'food_drink', 'boba', '5.2'),
+    ('2022-11-06', 'food_drink', 'ramen', '15'),
+    ('2022-11-09', 'food_drink', 'boba', '5.5');
 ^^^^
-====
-assert 0,0 == 1
-assert 0,1 == Alice
-assert 0,2 == 24
-assert 2,0 == 3
-assert 2,1 == Carol
-assert 2,2 == 53
+-- The following statement selects the "date", "item", and "price" of entries
+-- that are in the "food_drink" "category", and "price" is over 10.
+SELECT date, item, price FROM bookkeeping WHERE category = "food_drink" AND price > 10
 </textarea>
 </div>
 </div>
 </section>
-<section id="solving-mixed-up-code-problems-with-block-feedback">
-<h2>Solving Mixed-up Code Problems with Block Feedback<a class="headerlink" href="#solving-mixed-up-code-problems-with-block-feedback" title="Permalink to this heading">¶</a></h2>
-<p>If you see a problem like the one below you will need to put the mixed-up
-code in the correct order on the bottom.
-There will also be extra blocks that are not needed in a correct solution
-that you can leave on the top row.</p>
-<p>Click the “Check” button to check your solution.
-<strong>It will highlight incorrect blocks if your answer is incorrect.</strong></p>
-<p>See the video below for an example.</p>
-<p><strong>TODO: replace this video</strong></p>
+<section id="update-keyword">
+<h2>UPDATE Keyword<a class="headerlink" href="#update-keyword" title="Permalink to this heading">¶</a></h2>
 
-    <div class="runestone " style="margin-left: auto; margin-right:auto">
-        <div id="mparsons_sql_ta_intro_pb_video" data-component="youtube" class="align-center youtube-video"
-            data-video-height="415" data-question_label="3"
-            data-video-width="650" data-video-videoid="YehVhjxLae0"
-            data-video-divid="mparsons_sql_ta_intro_pb_video" data-video-start="0"
-            data-video-end="-1" ></div>
-    </div>
-    <p>Try to solve the following mixed-up code problem with block feedback.</p>
-
-<div class="runestone">
-<div data-component="hparsons" id=mparsons_sql_ta_intro_pb data-question_label="4" class="alert alert-warning hparsons_section">
-<div class="hp_question col-md-12">
-<p>in the <code class="docutils literal notranslate"><span class="pre">test</span></code> table:</p>
-<img alt="https://i.ibb.co/1s7NGNZ/test-database.png" src="https://i.ibb.co/1s7NGNZ/test-database.png" />
-<p>Please write a statement to select all data in the <code class="docutils literal notranslate"><span class="pre">test</span></code> table.</p>
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=mparsons_sql_ta_know_intro_update data-question_label="2">
+<div id=mparsons_sql_ta_know_intro_update_question class="ac_question col-md-12">
+<p>With the same table <code class="docutils literal notranslate"><span class="pre">bookkeeping</span></code>:</p>
+<img alt="https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png" src="https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png" />
+<p>Sometimes we want to update certain records.</p>
+<p>note: When you run the code, there will be several execution results.
+Please only refer to the <strong>last</strong> execution result that displays the table.</p>
 
 </div>
-<div class='hparsons'></div>
-<textarea
-    data-language='sql'
-    
-    
-    
-     data-randomize="true"
-    data-blockanswer='0 1 2'
-    style="visibility: hidden;">
---blocks--
-SELECT *
-FROM
-test
-temp
+<textarea data-lang="sql" id="mparsons_sql_ta_know_intro_update_editor" 
+      data-timelimit=25000     
+    data-audio=''      
+           data-wasm=/_static
+     style="visibility: hidden;">
+DROP TABLE IF EXISTS bookkeeping;
+create table "bookkeeping" ("date" DATE, "category" TEXT, "item" TEXT, "price" FLOAT);
+INSERT INTO bookkeeping (date,category,item,price) VALUES
+    ('2022-10-27', 'electronics', 'keyboard', '98.8'),
+    ('2022-10-30', 'food_drink', 'boba', '5.2'),
+    ('2022-11-06', 'food_drink', 'ramen', '15'),
+    ('2022-11-09', 'food_drink', 'boba', '5.5');
+^^^^
+-- The following statement updates the entry which "item" is "keyboard",
+-- and sets its price to 100.
+UPDATE bookkeeping SET price = 100 WHERE item = "keyboard";
+
+
+-- The following statement updates all entries which "item" are "boba",
+-- and add 2 to their current price.
+UPDATE bookkeeping SET price = price + 2 WHERE item = "boba";
+
+-- The following line selects all data to display the change.
+SELECT * FROM bookkeeping
 </textarea>
 </div>
 </div>
 </section>
-<section id="solving-mixed-up-code-problems-with-execution-feedback">
-<h2>Solving Mixed-up Code Problems with Execution Feedback<a class="headerlink" href="#solving-mixed-up-code-problems-with-execution-feedback" title="Permalink to this heading">¶</a></h2>
-<p>If you see a problem like the one below you will need to put the mixed-up
-code in the correct order on the bottom.
-There will also be extra blocks that are not needed in a correct solution
-that you can leave on the top row.</p>
-<p>Click the “Check” button to check your solution.
-<strong>The difference between this problem and the previous one is that it will execute your code.</strong></p>
-<p>See the video below for an example.</p>
-<p><strong>TODO: replace this video</strong></p>
+<section id="join-keyword">
+<h2>JOIN Keyword<a class="headerlink" href="#join-keyword" title="Permalink to this heading">¶</a></h2>
 
-    <div class="runestone " style="margin-left: auto; margin-right:auto">
-        <div id="mparsons_sql_ta_intro_pe_video" data-component="youtube" class="align-center youtube-video"
-            data-video-height="415" data-question_label="5"
-            data-video-width="650" data-video-videoid="YehVhjxLae0"
-            data-video-divid="mparsons_sql_ta_intro_pe_video" data-video-start="0"
-            data-video-end="-1" ></div>
-    </div>
-    <p>Try to solve the following mixed-up code problem with execution feedback.</p>
-
-<div class="runestone">
-<div data-component="hparsons" id=mparsons_sql_ta_intro_pe data-question_label="6" class="alert alert-warning hparsons_section">
-<div class="hp_question col-md-12">
-<p>in the <code class="docutils literal notranslate"><span class="pre">test</span></code> table:</p>
-<img alt="https://i.ibb.co/1s7NGNZ/test-database.png" src="https://i.ibb.co/1s7NGNZ/test-database.png" />
-<p>Please write a statement to select all data in the <code class="docutils literal notranslate"><span class="pre">test</span></code> table.</p>
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=mparsons_sql_ta_know_intro_join data-question_label="3">
+<div id=mparsons_sql_ta_know_intro_join_question class="ac_question col-md-12">
+<p>Consider as a publishing company, we have two table <code class="docutils literal notranslate"><span class="pre">authors</span></code> and <code class="docutils literal notranslate"><span class="pre">books</span></code>:</p>
+<img alt="https://i.ibb.co/98D76Dh/intro-join.png" src="https://i.ibb.co/98D76Dh/intro-join.png" />
+<p>Sometimes we want to merge the information from different tables.</p>
+<p>note: When you run the code, there will be several execution results.
+Please only refer to the display of the entries.</p>
 
 </div>
-<div class='hparsons'></div>
-<textarea
-    data-language='sql'
-    
-    
-    
-     data-randomize="true"
-    
-    style="visibility: hidden;">
---hiddenprefix--
-DROP TABLE IF EXISTS test;
-create table "test" ("id" INTEGER, "name" TEXT, "age" INTEGER);
-INSERT INTO test (id,name,age) VALUES
-    ('1', 'Alice', 24),
-    ('2', 'Bob', 46),
-    ('3', 'Carol', 53);
---blocks--
-SELECT *
-FROM
-test
-temp
---unittest--
-assert 0,0 == 1
-assert 0,1 == Alice
-assert 0,2 == 24
-assert 2,0 == 3
-assert 2,1 == Carol
-assert 2,2 == 53
+<textarea data-lang="sql" id="mparsons_sql_ta_know_intro_join_editor" 
+      data-timelimit=25000     
+    data-audio=''      
+           data-wasm=/_static
+     style="visibility: hidden;">
+DROP TABLE IF EXISTS authors;
+create table "authors" ("id" INTEGER, "name" TEXT, "nationality" TEXT);
+INSERT INTO authors (id,name,nationality) VALUES
+    ('37', 'Ellen Writer', 'Americans'),
+    ('15', 'Mu Li', 'Chinese'),
+    ('24', 'Frank Schmidt', 'Germans');
+DROP TABLE IF EXISTS books;
+create table "books" ("id" INTEGER, "title" TEXT, "author_id" INTEGER);
+INSERT INTO books (id,title,author_id) VALUES
+    ('1', 'Introduction to Python', '37'),
+    ('2', 'European Fairy Tales', '24'),
+    ('3', 'Healthy Food at Home', '15'),
+    ('4', 'Modern AI Applications', '37');
+^^^^
+-- The following statement will join information of the two tables by matching the "author_id"
+-- column of the "books" table and the "id" column of the "authors" table.
+SELECT books.title, authors.name, authors.nationality FROM books JOIN authors ON books.author_id = authors.id
 </textarea>
 </div>
 </div>
@@ -412,9 +371,9 @@ assert 2,2 == 53
 <section id="what-to-do-next">
 <h2>What to do next<a class="headerlink" href="#what-to-do-next" title="Permalink to this heading">¶</a></h2>
 <div>
-    Click on the following link to move on to knowledge introduction of "AND", "UPDATE", and "JOIN":
+    Click on the following link to go to the practice problems based on your participant number:
     <ul>
-        <li><a href="knowledge_intro.html">Knowledge Intro</a></li>
+        <li><a href="WR-PE-PB.html">P01</a></li>
     </ul>
 </div></section>
 </section>
