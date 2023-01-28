@@ -1,10 +1,7 @@
-Practice Problems - SQL
+Practice Problems
 -----------------------------------------------------
 
-Problems
-==============
-
-.. activecode:: hparsons_lg_sql_practice_A_0_wr
+.. activecode:: hparsons_ta_sql_practice_0_wr_a
     :language: sql
     :showlastsql:
 
@@ -14,9 +11,6 @@ Problems
     
     Please write a SELECT statement to retrieve the ``student_id``, ``english``,
     and ``math`` of all entries whose ``test_name`` is ``midterm``.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the unittest and the **last** execution result for debugging purposes.
 
     ~~~~
     DROP TABLE IF EXISTS grades;
@@ -33,7 +27,7 @@ Problems
     assert 1,1 == 50
     assert 2,1 == 55
 
-.. hparsons:: hparsons_lg_sql_practice_A_1_pe
+.. hparsons:: hparsons_ta_sql_practice_1_pe_a
     :language: sql
     :randomize:
 
@@ -66,8 +60,9 @@ Problems
     assert 0,1 == midterm
     assert 1,0 == 3
     assert 1,1 == midterm
-  
-.. hparsons:: hparsons_lg_sql_practice_A_2_pb
+
+
+.. hparsons:: hparsons_ta_sql_practice_2_pb_a
     :language: sql
     :randomize:
     :blockanswer: 0 1 2 3 4
@@ -90,7 +85,7 @@ Problems
     student_id = 1 AND test_name = final
 
 
-.. activecode:: hparsons_lg_sql_practice_A_3_wr
+.. activecode:: hparsons_ta_sql_practice_3_wr_a
     :language: sql
     :showlastsql:
 
@@ -102,9 +97,6 @@ Problems
 
     Please write an UPDATE statement to change all entries whose ``test_name`` is ``midterm``,
     and add 10 points to their ``english`` score.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the unittest and the **last** execution result for debugging purposes.
     ~~~~
     DROP TABLE IF EXISTS grades;
     create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
@@ -126,9 +118,8 @@ Problems
     assert 2,2 == 60
     assert 3,2 == 80
     assert 4,2 == 65
-
-
-.. hparsons:: hparsons_lg_sql_practice_A_4_pe
+  
+.. hparsons:: hparsons_ta_sql_practice_4_pe_a
     :language: sql
     :randomize:
 
@@ -173,7 +164,7 @@ Problems
     assert 3,2 == Blake
 
 
-.. hparsons:: hparsons_lg_sql_practice_A_5_pb
+.. hparsons:: hparsons_ta_sql_practice_5_pb_a
     :language: sql
     :randomize:
     :blockanswer: 0 1 2 3 4 5 6
