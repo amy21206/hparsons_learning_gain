@@ -115,6 +115,11 @@ What to do next
         Click on the following link to go to the practice problems based on your participant number (please ask the experimenter):
         <br>
         <ul>
-            <li><a href="A-WR-PE-PB.html">P01</a></li>
+            <li><a href="A-WR-PB-PE.html">A</a></li>
+            <li><a href="B-WR-PE-PB.html">B</a></li>
+            <li><a href="C-PB-WR-PE.html">C</a></li>
+            <li><a href="D-PB-PE-WR.html">D</a></li>
+            <li><a href="E-PE-WR-PB.html">E</a></li>
+            <li><a href="F-PE-PB-WR.html">F</a></li>
         </ul>
     </div>

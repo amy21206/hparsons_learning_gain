@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
 
-    <title>Introduction to AND, UPDATE, and JOIN &#8212; Runestone Interactive Overview</title>
+    <title>Practice Problems &#8212; Runestone Interactive Overview</title>
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="../_static/basic.css" />
     <link rel="stylesheet" type="text/css" href="../_static/accessibility.css?v=50109A2C" />
@@ -205,7 +205,7 @@
             <li><a href='https://runestone.academy/ns/books/published/instructorguide/index.html'>Instructors Guide</a></li>
             <li class="divider"></li>
             <li><a href='http://runestoneinteractive.org'>About Runestone</a></li>
-            <li><a href='/runestone/default/reportabug?course=hparsons_learning_gain&page=knowledge_intro'>Report A Problem</a></li>
+            <li><a href='/runestone/default/reportabug?course=hparsons_learning_gain&page=E-PE-WR-PB'>Report A Problem</a></li>
           </ul>
         </li>
         <!-- end help menu dropdown -->
@@ -252,139 +252,235 @@
 
 
   
-  <section id="introduction-to-and-update-and-join">
-<h1>Introduction to AND, UPDATE, and JOIN<a class="headerlink" href="#introduction-to-and-update-and-join" title="Permalink to this heading">¶</a></h1>
-<p>First, let’s spend 8 minutes to learn about <code class="docutils literal notranslate"><span class="pre">AND</span></code>, <code class="docutils literal notranslate"><span class="pre">UPDATE</span></code>, and <code class="docutils literal notranslate"><span class="pre">JOIN</span></code> in SQL!</p>
-<section id="and-keyword">
-<h2>AND Keyword<a class="headerlink" href="#and-keyword" title="Permalink to this heading">¶</a></h2>
+  <section id="practice-problems">
+<h1>Practice Problems<a class="headerlink" href="#practice-problems" title="Permalink to this heading">¶</a></h1>
 
-<div class="runestone explainer ac_section ">
-<div data-component="activecode" id=mparsons_sql_ta_know_intro_and data-question_label="1">
-<div id=mparsons_sql_ta_know_intro_and_question class="ac_question col-md-12">
-<p>Here are Alice’s bookkeeping entries in the table <code class="docutils literal notranslate"><span class="pre">bookkeeping</span></code>:</p>
-<img alt="https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png" src="https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png" />
-<p>Sometimes we want to select data with multiple constraints, and that can be done using <code class="docutils literal notranslate"><span class="pre">AND</span></code>.</p>
+<div class="runestone">
+<div data-component="hparsons" id=hparsons_ta_sql_practice_0_pe_e data-question_label="1" class="alert alert-warning hparsons_section">
+<div class="hp_question col-md-12">
+<p>In the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>Please write a SELECT statement to retrieve the <code class="docutils literal notranslate"><span class="pre">student_id</span></code>, <code class="docutils literal notranslate"><span class="pre">english</span></code>,
+and <code class="docutils literal notranslate"><span class="pre">math</span></code> of all entries whose <code class="docutils literal notranslate"><span class="pre">test_name</span></code> is <code class="docutils literal notranslate"><span class="pre">midterm</span></code>.</p>
 
 </div>
-<textarea data-lang="sql" id="mparsons_sql_ta_know_intro_and_editor" 
+<div class='hparsons'></div>
+<textarea
+    data-language='sql'
+    
+    
+    
+     data-randomize="true"
+    
+    style="visibility: hidden;">
+--hiddenprefix--
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
+--blocks--
+SELECT
+student_id, english, math
+FROM
+grades
+WHERE
+test_name = "midterm"
+*
+--unittest--
+assert 0,1 == 62
+assert 1,1 == 50
+assert 2,1 == 55
+</textarea>
+</div>
+</div>
+
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=hparsons_ta_sql_practice_1_wr_e data-question_label="2">
+<div id=hparsons_ta_sql_practice_1_wr_e_question class="ac_question col-md-12">
+<p>In the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>Please write a SELECT statement to retrieve the <code class="docutils literal notranslate"><span class="pre">student_id</span></code>, <code class="docutils literal notranslate"><span class="pre">test_name</span></code>,
+and <code class="docutils literal notranslate"><span class="pre">english</span></code> of all entries whose <code class="docutils literal notranslate"><span class="pre">english</span></code> is lower than 60 and <code class="docutils literal notranslate"><span class="pre">math</span></code> is higher than 90.</p>
+
+</div>
+<textarea data-lang="sql" id="hparsons_ta_sql_practice_1_wr_e_editor" 
       data-timelimit=25000     
     data-audio=''      
            data-wasm=/_static
     data-showlastsql="true" style="visibility: hidden;">
-DROP TABLE IF EXISTS bookkeeping;
-create table "bookkeeping" ("date" DATE, "category" TEXT, "item" TEXT, "price" FLOAT);
-INSERT INTO bookkeeping (date,category,item,price) VALUES
-    ('2022-10-27', 'electronics', 'keyboard', '98.8'),
-    ('2022-10-30', 'food_drink', 'boba', '5.2'),
-    ('2022-11-06', 'food_drink', 'ramen', '15'),
-    ('2022-11-09', 'food_drink', 'boba', '5.5');
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
 ^^^^
--- The following statement selects the "date", "item", and "price" of entries
--- that are in the "food_drink" "category", and "price" is over 10.
-SELECT date, item, price FROM bookkeeping WHERE category = "food_drink" AND price > 10
+====
+assert 0,0 == 2
+assert 0,1 == midterm
+assert 1,0 == 3
+assert 1,1 == midterm
 </textarea>
 </div>
 </div>
-</section>
-<section id="update-keyword">
-<h2>UPDATE Keyword<a class="headerlink" href="#update-keyword" title="Permalink to this heading">¶</a></h2>
 
-<div class="runestone explainer ac_section ">
-<div data-component="activecode" id=mparsons_sql_ta_know_intro_update data-question_label="2">
-<div id=mparsons_sql_ta_know_intro_update_question class="ac_question col-md-12">
-<p>With the same table <code class="docutils literal notranslate"><span class="pre">bookkeeping</span></code>:</p>
-<img alt="https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png" src="https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png" />
-<p>Sometimes we want to update certain records.</p>
+<div class="runestone">
+<div data-component="hparsons" id=hparsons_ta_sql_practice_2_pb_e data-question_label="3" class="alert alert-warning hparsons_section">
+<div class="hp_question col-md-12">
+<p>In the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>A student completed an extra assignment and got some additional points.</p>
+<p>Please write an UPDATE statement to change the entry whose <code class="docutils literal notranslate"><span class="pre">student_id</span></code> is 1, and set their <code class="docutils literal notranslate"><span class="pre">math</span></code> score to 90 in the <code class="docutils literal notranslate"><span class="pre">final</span></code> test (<code class="docutils literal notranslate"><span class="pre">test_name</span></code> column).</p>
 
 </div>
-<textarea data-lang="sql" id="mparsons_sql_ta_know_intro_update_editor" 
+<div class='hparsons'></div>
+<textarea
+    data-language='sql'
+    
+    
+    
+     data-randomize="true"
+    data-blockanswer='0 1 2 3 4'
+    style="visibility: hidden;">
+--blocks--
+UPDATE grades
+SET
+math = 90
+WHERE
+student_id = 1 AND test_name = "final"
+LET
+student_id = 1 AND test_name = final
+</textarea>
+</div>
+</div>
+
+<div class="runestone">
+<div data-component="hparsons" id=hparsons_ta_sql_practice_3_pe_e data-question_label="4" class="alert alert-warning hparsons_section">
+<div class="hp_question col-md-12">
+<p>In the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>The instructors decided to add some points to all students as one test was too difficult.</p>
+<p>Please write an UPDATE statement to change all entries whose <code class="docutils literal notranslate"><span class="pre">test_name</span></code> is <code class="docutils literal notranslate"><span class="pre">midterm</span></code>,
+and add 10 points to their <code class="docutils literal notranslate"><span class="pre">english</span></code> score.</p>
+
+</div>
+<div class='hparsons'></div>
+<textarea
+    data-language='sql'
+    
+    
+    
+     data-randomize="true"
+    
+    style="visibility: hidden;">
+--hiddenprefix--
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
+--blocks--
+UPDATE
+grades
+SET
+english = english + 10
+WHERE
+test_name = "midterm"
+english + 10
+--hiddensuffix--
+SELECT * FROM grades
+--unittest--
+assert 0,2 == 72
+assert 1,2 == 70
+assert 2,2 == 60
+assert 3,2 == 80
+assert 4,2 == 65
+</textarea>
+</div>
+</div>
+
+<div class="runestone explainer ac_section ">
+<div data-component="activecode" id=hparsons_ta_sql_practice_4_wr_e data-question_label="5">
+<div id=hparsons_ta_sql_practice_4_wr_e_question class="ac_question col-md-12">
+<p>Aside from the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>We also have a <code class="docutils literal notranslate"><span class="pre">students</span></code> table:</p>
+<img alt="https://i.ibb.co/m4KxSMC/practice-students.png" src="https://i.ibb.co/m4KxSMC/practice-students.png" />
+<p>Now we want to match the student name to their math grades.</p>
+<p>Please write a statement using SELECT and JOIN to: select the <code class="docutils literal notranslate"><span class="pre">test_name</span></code> and <code class="docutils literal notranslate"><span class="pre">math</span></code>
+from the <code class="docutils literal notranslate"><span class="pre">grades</span></code>  table and <code class="docutils literal notranslate"><span class="pre">name</span></code> from the <code class="docutils literal notranslate"><span class="pre">students</span></code> table, where the <code class="docutils literal notranslate"><span class="pre">student_id</span></code>
+in the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table is the same as the <code class="docutils literal notranslate"><span class="pre">id</span></code> in the <code class="docutils literal notranslate"><span class="pre">students</span></code> table.</p>
+
+</div>
+<textarea data-lang="sql" id="hparsons_ta_sql_practice_4_wr_e_editor" 
       data-timelimit=25000     
     data-audio=''      
            data-wasm=/_static
     data-showlastsql="true" style="visibility: hidden;">
-DROP TABLE IF EXISTS bookkeeping;
-create table "bookkeeping" ("date" DATE, "category" TEXT, "item" TEXT, "price" FLOAT);
-INSERT INTO bookkeeping (date,category,item,price) VALUES
-    ('2022-10-27', 'electronics', 'keyboard', '98.8'),
-    ('2022-10-30', 'food_drink', 'boba', '5.2'),
-    ('2022-11-06', 'food_drink', 'ramen', '15'),
-    ('2022-11-09', 'food_drink', 'boba', '5.5');
+DROP TABLE IF EXISTS grades;
+create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+INSERT INTO grades (student_id,test_name,english,math) VALUES
+    ('1', 'midterm', 62, 84),
+    ('1', 'final', 70, 86),
+    ('2', 'midterm', 50, 95),
+    ('2', 'final', 80, 99),
+    ('3', 'midterm', 55, 91);
+DROP TABLE IF EXISTS students;
+create table "students" ("id" INTEGER, "name" TEXT);
+INSERT INTO students (id,name) VALUES
+    (1, 'Alex'),
+    (2, 'Blake'),
+    (3, 'Charlie');
 ^^^^
--- The following statement updates the entry which "item" is "keyboard",
--- and sets its price to 100.
-UPDATE bookkeeping SET price = 100 WHERE item = "keyboard";
-
-
--- The following statement updates all entries which "item" are "boba",
--- and add 2 to their current price.
-UPDATE bookkeeping SET price = price + 2 WHERE item = "boba";
-
--- The following line selects all data to display the change.
-SELECT * FROM bookkeeping
+====
+assert 0,2 == Alex
+assert 3,2 == Blake
 </textarea>
 </div>
 </div>
-</section>
-<section id="join-keyword">
-<h2>JOIN Keyword<a class="headerlink" href="#join-keyword" title="Permalink to this heading">¶</a></h2>
 
-<div class="runestone explainer ac_section ">
-<div data-component="activecode" id=mparsons_sql_ta_know_intro_join data-question_label="3">
-<div id=mparsons_sql_ta_know_intro_join_question class="ac_question col-md-12">
-<p>Consider as a publishing company, we have two table <code class="docutils literal notranslate"><span class="pre">authors</span></code> and <code class="docutils literal notranslate"><span class="pre">books</span></code>:</p>
-<img alt="https://i.ibb.co/98D76Dh/intro-join.png" src="https://i.ibb.co/98D76Dh/intro-join.png" />
-<p>Sometimes we want to merge the information from different tables.</p>
+<div class="runestone">
+<div data-component="hparsons" id=hparsons_ta_sql_practice_5_pb_e data-question_label="6" class="alert alert-warning hparsons_section">
+<div class="hp_question col-md-12">
+<p>Aside from the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table:</p>
+<img alt="https://i.ibb.co/r6qShy5/practice-grade.png" src="https://i.ibb.co/r6qShy5/practice-grade.png" />
+<p>We also have a <code class="docutils literal notranslate"><span class="pre">tests</span></code> table:</p>
+<img alt="https://i.ibb.co/KVTGNXh/practice-tests.png" src="https://i.ibb.co/KVTGNXh/practice-tests.png" />
+<p>Now we want to add the date information to the grades to see when the students took the tests.</p>
+<p>Please write a statement using SELECT and JOIN to: select the <code class="docutils literal notranslate"><span class="pre">date</span></code> and <code class="docutils literal notranslate"><span class="pre">name</span></code>
+from the <code class="docutils literal notranslate"><span class="pre">tests</span></code>  table and <code class="docutils literal notranslate"><span class="pre">student_id</span></code> from the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table,
+where the <code class="docutils literal notranslate"><span class="pre">test_name</span></code> in the <code class="docutils literal notranslate"><span class="pre">grades</span></code> table is the same as the <code class="docutils literal notranslate"><span class="pre">name</span></code> in the <code class="docutils literal notranslate"><span class="pre">tests</span></code> table.</p>
 
 </div>
-<textarea data-lang="sql" id="mparsons_sql_ta_know_intro_join_editor" 
-      data-timelimit=25000     
-    data-audio=''      
-           data-wasm=/_static
-    data-showlastsql="true" style="visibility: hidden;">
-DROP TABLE IF EXISTS authors;
-create table "authors" ("id" INTEGER, "name" TEXT, "nationality" TEXT);
-INSERT INTO authors (id,name,nationality) VALUES
-    ('37', 'Ellen Writer', 'Americans'),
-    ('15', 'Mu Li', 'Chinese'),
-    ('24', 'Frank Schmidt', 'Germans');
-DROP TABLE IF EXISTS books;
-create table "books" ("id" INTEGER, "title" TEXT, "author_id" INTEGER);
-INSERT INTO books (id,title,author_id) VALUES
-    ('1', 'Introduction to Python', '37'),
-    ('2', 'European Fairy Tales', '24'),
-    ('3', 'Healthy Food at Home', '15'),
-    ('4', 'Modern AI Applications', '37');
-^^^^
--- The following statement will join information of the two tables by matching the "author_id"
--- column of the "books" table and the "id" column of the "authors" table.
-SELECT books.title, authors.name, authors.nationality FROM books JOIN authors ON books.author_id = authors.id
+<div class='hparsons'></div>
+<textarea
+    data-language='sql'
+    
+    
+    
+     data-randomize="true"
+    data-blockanswer='0 1 2 3 4 5 6'
+    style="visibility: hidden;">
+--blocks--
+SELECT
+tests.date, tests.name, grades.student_id
+FROM tests
+JOIN
+grades
+ON
+grades.test_name = tests.name
 </textarea>
 </div>
 </div>
-</section>
-<section id="what-to-do-next">
-<h2>What to do next<a class="headerlink" href="#what-to-do-next" title="Permalink to this heading">¶</a></h2>
-<div>
-    Next, you will solve 6 SQL problems.
-    <b>
-    Please "think aloud" during the process: verbalize what you are thinking while your are solving the problems, as if you were alone talking to yourself.
-    <br>
-    Please talk constantly.
-    If you are quiet for a long time, the experimentor will ask you to keep talking.
-    </b>
-
-    <br>
-    Click on the following link to go to the practice problems based on your participant number (please ask the experimenter):
-    <br>
-    <ul>
-        <li><a href="A-WR-PB-PE.html">A</a></li>
-        <li><a href="B-WR-PE-PB.html">B</a></li>
-        <li><a href="C-PB-WR-PE.html">C</a></li>
-        <li><a href="D-PB-PE-WR.html">D</a></li>
-        <li><a href="E-PE-WR-PB.html">E</a></li>
-        <li><a href="F-PE-PB-WR.html">F</a></li>
-    </ul>
-</div></section>
 </section>
 
 
