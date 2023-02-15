@@ -1,6 +1,8 @@
 Problem Bank 
 ------------
 
+Make sure to compile this in branch feat/sqlstudy of runestone!!
+
 Q0
 ===
 

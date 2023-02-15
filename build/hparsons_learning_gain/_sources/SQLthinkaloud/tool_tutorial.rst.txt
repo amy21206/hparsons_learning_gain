@@ -53,7 +53,7 @@ code in the correct order on the bottom.
 There will also be extra blocks that are not needed in a correct solution
 that you can leave on the top row. 
 
-Click the "Check" button to check your solution.
+Click the "Check Me" button to check your solution.
 **It will highlight incorrect blocks if your answer is incorrect.**
 
 See the video below for an example.
@@ -95,7 +95,7 @@ code in the correct order on the bottom.
 There will also be extra blocks that are not needed in a correct solution
 that you can leave on the top row. 
 
-Click the "Check" button to check your solution.
+Click the "Run" button to execute your code.
 **The difference between this problem and the previous one is that it will execute your code.**
 
 See the video below for an example.
