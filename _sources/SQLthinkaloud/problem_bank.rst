@@ -207,7 +207,7 @@ Q2
     
     A student completed an extra assignment and got some additional points. 
 
-    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their ``math`` score for ``final``(``test_name``) to 90.
+    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their ``math`` score to 90 in the ``final`` test (``test_name`` column).
 
     ~~~~
     DROP TABLE IF EXISTS grades;
@@ -242,7 +242,7 @@ Q2
     
     A student completed an extra assignment and got some additional points. 
 
-    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their ``math`` score for ``final``(``test_name``) to 90.
+    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their ``math`` score to 90 in the ``final`` test (``test_name`` column).
     ~~~~
     --hiddenprefix--
     DROP TABLE IF EXISTS grades;
@@ -283,7 +283,7 @@ Q2
     
     A student completed an extra assignment and got some additional points. 
 
-    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their math score for ``final`` ``test_name`` to 90.
+    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their ``math`` score to 90 in the ``final`` test (``test_name`` column).
     ~~~~
     --blocks--
     UPDATE grades
