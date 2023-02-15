@@ -8,33 +8,33 @@ option E (I don't know).
 Problems
 ==============
 
-.. timed:: hparsons_lg_regex_timed_pre
+.. timed:: hparsons_lg_regex_timed_pre1
    :timelimit: 20
    :noresult:
    :nofeedback:
    :nopause:
 
-   .. selectquestion:: hparsons_lg_regex_pretest_1
-      :fromid: hparsons_lg_regex_test_mcq_1_pre
+   .. selectquestion:: hparsons_lg_regex_pretest1_1
+      :fromid: hparsons_lg_regex_1_hparsons
       :points: 1
 
-   .. selectquestion:: hparsons_lg_regex_pretest_2
+   .. selectquestion:: hparsons_lg_regex_pretest1_2
       :fromid: hparsons_lg_regex_test_mcq_2_pre
       :points: 1
 
-   .. selectquestion:: hparsons_lg_regex_pretest_3
+   .. selectquestion:: hparsons_lg_regex_pretest1_3
       :fromid: hparsons_lg_regex_test_mcq_3_pre
       :points: 1
 
-   .. selectquestion:: hparsons_lg_regex_pretest_4
+   .. selectquestion:: hparsons_lg_regex_pretest1_4
       :fromid: hparsons_lg_regex_test_mcq_4_pre
       :points: 1
 
-   .. selectquestion:: hparsons_lg_regex_pretest_5
+   .. selectquestion:: hparsons_lg_regex_pretest1_5
       :fromid: hparsons_lg_regex_test_mcq_5_pre
       :points: 1
 
-   .. selectquestion:: hparsons_lg_regex_pretest_6
+   .. selectquestion:: hparsons_lg_regex_pretest1_6
       :fromid: hparsons_lg_regex_test_mcq_6_pre
       :points: 1
 

@@ -1,0 +1,132 @@
+Building with Runestone 6.3.24
+---> runestone.build
+git describe --long
+fatal: No names found, cannot describe anything.
+
+Building into  ./build/hparsons_learning_gain
+mkdir_p path('././build/hparsons_learning_gain')
+mkdir_p path('./build/hparsons_learning_gain')
+mkdir_p path('././build/hparsons_learning_gain/doctrees')
+sphinx-build -b html -d ././build/hparsons_learning_gain/doctrees -c . -a -E -Alogin_required=false -Aloglevel=0 -Acourse_title=hparsons_learning_gain -Apython3=false -Adburl=postgresql://runestone:runestone@db/runestone_dev -Adefault_ac_lang=python -Adownloads_enabled=false -Aenable_chatcodes=false -Aallow_pairs=false -Adynamic_pages=True -Ause_services=false -Abasecourse=hparsons_learning_gain -Acourse_id=hparsons_learning_gain -Aappname=runestone -Acourse_url=http://127.0.0.1:8000 -Arunestone_version=6.3.24 -Abuild_info=unknown ./_sources ./build/hparsons_learning_gain
+Running Sphinx v4.5.0
+loading translations [en]... done
+Connecting to DB
+No custom CSS files
+No custom js files
+building [mo]: all of 0 po files
+building [html]: all source files
+updating environment: [new config] 8 added, 0 changed, 0 removed
+Resetting questions
+reading sources... [ 12%] index
+reading sources... [ 25%] regex/hparsons_lg_problem_bank
+reading sources... [ 37%] regex/hparsons_lg_session1_presurvey
+reading sources... [ 50%] regex/hparsons_lg_session1_pretest
+reading sources... [ 62%] regex/hparsons_lg_session2_intro
+reading sources... [ 75%] regex/hparsons_lg_session2_posttest
+reading sources... [ 87%] regex/hparsons_lg_session2_practice_parsons
+reading sources... [100%] regex/hparsons_lg_session2_practice_write
+
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... done
+preparing documents... done
+writing output... [ 12%] index
+writing output... [ 25%] regex/hparsons_lg_problem_bank
+writing output... [ 37%] regex/hparsons_lg_session1_presurvey
+writing output... [ 50%] regex/hparsons_lg_session1_pretest
+writing output... [ 62%] regex/hparsons_lg_session2_intro
+writing output... [ 75%] regex/hparsons_lg_session2_posttest
+writing output... [ 87%] regex/hparsons_lg_session2_practice_parsons
+writing output... [100%] regex/hparsons_lg_session2_practice_write
+
+generating indices... genindex done
+writing additional pages... search done
+copying static files... done
+copying extra files... done
+dumping search index in English (code: en)... done
+dumping object inventory... done
+build succeeded, 6 warnings.
+
+The HTML pages are in build/hparsons_learning_gain.
+Deleteing Chapter / Subchapter info for hparsons_learning_gain
+Warning - always use build --all to ensure chapter info is consistent!
+Updating Database for regex
+Committing changes
+Done, build successful
+Runestone Interactive Overview : 
+BUILD time is 2022-11-21 20:48:32.290193
+Updating library
+
+====
+WARNING: while setting up extension runestone.lp: role 'docname' is already registered, it will be overridden
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_problem_bank.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_session1_pretest.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_session2_posttest.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_session2_practice_parsons.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_session2_practice_write.rst: WARNING: document isn't included in any toctree
+Building with Runestone 6.3.24
+---> runestone.build
+git describe --long
+fatal: No names found, cannot describe anything.
+
+Building into  ./build/hparsons_learning_gain
+mkdir_p path('././build/hparsons_learning_gain')
+mkdir_p path('./build/hparsons_learning_gain')
+mkdir_p path('././build/hparsons_learning_gain/doctrees')
+sphinx-build -b html -d ././build/hparsons_learning_gain/doctrees -c . -a -E -Alogin_required=false -Aloglevel=0 -Acourse_title=hparsons_learning_gain -Apython3=false -Adburl=postgresql://runestone:runestone@db/runestone_dev -Adefault_ac_lang=python -Adownloads_enabled=false -Aenable_chatcodes=false -Aallow_pairs=false -Adynamic_pages=True -Ause_services=false -Abasecourse=hparsons_learning_gain -Acourse_id=hparsons_learning_gain -Aappname=runestone -Acourse_url=http://127.0.0.1:8000 -Arunestone_version=6.3.24 -Abuild_info=unknown ./_sources ./build/hparsons_learning_gain
+Running Sphinx v4.5.0
+loading translations [en]... done
+Connecting to DB
+No custom CSS files
+No custom js files
+building [mo]: all of 0 po files
+building [html]: all source files
+updating environment: [new config] 8 added, 0 changed, 0 removed
+Resetting questions
+reading sources... [ 12%] index
+reading sources... [ 25%] regex/hparsons_lg_problem_bank
+reading sources... [ 37%] regex/hparsons_lg_session1_presurvey
+reading sources... [ 50%] regex/hparsons_lg_session1_pretest
+reading sources... [ 62%] regex/hparsons_lg_session2_intro
+reading sources... [ 75%] regex/hparsons_lg_session2_posttest
+reading sources... [ 87%] regex/hparsons_lg_session2_practice_parsons
+reading sources... [100%] regex/hparsons_lg_session2_practice_write
+
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... done
+preparing documents... done
+writing output... [ 12%] index
+writing output... [ 25%] regex/hparsons_lg_problem_bank
+writing output... [ 37%] regex/hparsons_lg_session1_presurvey
+writing output... [ 50%] regex/hparsons_lg_session1_pretest
+writing output... [ 62%] regex/hparsons_lg_session2_intro
+writing output... [ 75%] regex/hparsons_lg_session2_posttest
+writing output... [ 87%] regex/hparsons_lg_session2_practice_parsons
+writing output... [100%] regex/hparsons_lg_session2_practice_write
+
+generating indices... genindex done
+writing additional pages... search done
+copying static files... done
+copying extra files... done
+dumping search index in English (code: en)... done
+dumping object inventory... done
+build succeeded, 6 warnings.
+
+The HTML pages are in build/hparsons_learning_gain.
+Deleteing Chapter / Subchapter info for hparsons_learning_gain
+Warning - always use build --all to ensure chapter info is consistent!
+Updating Database for regex
+Committing changes
+Done, build successful
+Runestone Interactive Overview : 
+BUILD time is 2022-11-21 20:48:32.290193
+Updating library
+
+====
+WARNING: while setting up extension runestone.lp: role 'docname' is already registered, it will be overridden
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_problem_bank.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_session1_pretest.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_session2_posttest.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_session2_practice_parsons.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/hparsons_learning_gain/_sources/regex/hparsons_lg_session2_practice_write.rst: WARNING: document isn't included in any toctree
