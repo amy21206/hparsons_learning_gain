@@ -1,7 +1,7 @@
 Survey and Introduction to AND, UPDATE, and JOIN
 --------------------------------------------------
 
-First, let's spend 10 minutes to complete a short survey and learn about ``AND``, ``UPDATE``, and ``JOIN`` in SQL!
+Before we start, please answer the following questions:
 
 .. poll:: hp_CS-self-efficacy-1
     :option_1: Strongly disagree
@@ -63,6 +63,9 @@ First, let's spend 10 minutes to complete a short survey and learn about ``AND``
 
     I have a lot of self-confidence when it comes to programming.
 
+
+
+First, let's spend 8 minutes to learn about ``AND``, ``UPDATE``, and ``JOIN`` in SQL!
 
 AND Keyword
 ==================================================

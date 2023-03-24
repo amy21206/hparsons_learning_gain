@@ -3781,3 +3781,345 @@ BrokenPipeError: [Errno 32] Broken pipe
 127.0.0.1 - - [24/Mar/2023 15:57:50] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
 
 Aborted!
+127.0.0.1 - - [24/Mar/2023 15:58:45] "GET /SQL_execution/hparsons_lg_sql_exe_knowledge_intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 15:58:45] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 15:58:45] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 15:58:45] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 15:58:45] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 15:59:04] "GET /SQL_execution/hparsons_lg_sql_exe_practice_W.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 15:59:05] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:05] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:05] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:29] "GET /SQL_execution/hparsons_lg_sql_exe_practice_W.html HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:29] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:29] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:29] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:29] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:29] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:29] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:29] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/CodeChat.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/runestone.8cc3d7e65ac22823.css?v=270BA92A HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/sphinx_highlight.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/html4css1.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/jquery.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/img/RAIcon.png HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/underscore.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/doctools.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:30] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:31] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:31] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:31] "GET /_static/runtime.15415ade3806b48c.bundle.js?v=C3F66470 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:31] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 15:59:31] "GET /_static/runestone.7f68dbcf27bacd1a.bundle.js?v=124FA8F7 HTTP/1.1" 304 -
+
+Aborted!
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/CodeChat.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/runestone.8cc3d7e65ac22823.css?v=270BA92A HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/html4css1.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:34] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/sphinx_highlight.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/img/RAIcon.png HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/jquery.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/underscore.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/doctools.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/runtime.15415ade3806b48c.bundle.js?v=C3F66470 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:35] "GET /_static/runestone.7f68dbcf27bacd1a.bundle.js?v=124FA8F7 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /SQL_execution/hparsons_lg_sql_exe_problem_bank_posttest.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:04:47] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /SQL_execution/hparsons_lg_sql_exe_problem_bank_posttest.htmlk HTTP/1.1" 404 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 37172)
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/http/server.py", line 705, in send_head
+    f = open(path, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/home/amy21206/RunestoneServer/rsdocker/RunestoneServer/books/hparsons_learning_gain/build/hparsons_learning_gain/SQL_execution/hparsons_lg_sql_exe_problem_bank_posttest.htmlk'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.8/http/server.py", line 647, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.8/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.8/http/server.py", line 427, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.8/http/server.py", line 415, in handle_one_request
+    method()
+  File "/usr/lib/python3.8/http/server.py", line 651, in do_GET
+    f = self.send_head()
+  File "/usr/lib/python3.8/http/server.py", line 707, in send_head
+    self.send_error(HTTPStatus.NOT_FOUND, "File not found")
+  File "/usr/lib/python3.8/http/server.py", line 482, in send_error
+    self.wfile.write(body)
+  File "/usr/lib/python3.8/socketserver.py", line 826, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.449e92be60da6a04.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /_static/vendors-node_modules_codemirror_mode_clike_clike_js-node_modules_codemirror_mode_javascript_j-f062af.cfbbd1c4edbaf7f9.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /_static/vendors-node_modules_codemirror_addon_edit_matchbrackets_js-node_modules_codemirror_addon_hin-ab90ac.dd29d8546532c5e2.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /_static/runestone_codelens_js_pytutor-embed_bundle_js.5ab33845a69495ce.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:47] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.d2f7c8fd7df25a61.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:04:48] "GET /_static/sql-wasm.wasm HTTP/1.1" 304 -
+
+Aborted!
+127.0.0.1 - - [24/Mar/2023 16:07:54] "GET /SQL_execution/hparsons_lg_sql_exe_problem_bank_posttest.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:54] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:54] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:54] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:54] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:54] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:54] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:54] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/runestone.8cc3d7e65ac22823.css?v=270BA92A HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:55] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/runtime.15415ade3806b48c.bundle.js?v=C3F66470 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/runestone.7f68dbcf27bacd1a.bundle.js?v=124FA8F7 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.449e92be60da6a04.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/vendors-node_modules_codemirror_mode_clike_clike_js-node_modules_codemirror_mode_javascript_j-f062af.cfbbd1c4edbaf7f9.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/vendors-node_modules_codemirror_addon_edit_matchbrackets_js-node_modules_codemirror_addon_hin-ab90ac.dd29d8546532c5e2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/runestone_codelens_js_pytutor-embed_bundle_js.5ab33845a69495ce.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:56] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.d2f7c8fd7df25a61.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:57] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:07:57] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:07:57] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:08:15] "GET /SQL_execution/hparsons_lg_sql_exe_knowledge_intro.html HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:15] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:15] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:15] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:15] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:33] "GET /SQL_execution/hparsons_lg_sql_exe_practice_H.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:08:33] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:34] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:34] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:59] "GET /SQL_execution/hparsons_lg_sql_exe_practice_H.html HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:08:59] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:00] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:00] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:00] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:00] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:00] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:00] "GET /_static/vendors-node_modules_micro-parsons_micro-parsons_micro-parsons_js-node_modules_micro-parsons_-974bff.abfbc6db9bc1faf2.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:00] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.28f4c36366c18863.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:05] "GET /SQL_execution/hparsons_lg_sql_exe_practice_W.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:11] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:11] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:12] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:12] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /SQL_execution/hparsons_lg_sql_exe_posttest.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /_static/runestone_parsons_js_timedparsons_js.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /_static/runestone_selectquestion_css_selectquestion_css.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /_static/runestone_timed_js_timed_js-runestone_clickableArea_css_clickable_css-runestone_dragndrop_css-8bfd54.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:22] "GET /_static/runestone_parsons_js_timedparsons_js.9572a92fb5f8584c.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:23] "GET /_static/runestone_dragndrop_js_timeddnd_js.df971a9573f7c4ea.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:23] "GET /_static/runestone_mchoice_js_timedmc_js.afbfa99916720f55.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:23] "GET /_static/runestone_selectquestion_js_selectone_js.c6c6a85c56766837.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:23] "GET /_static/runestone_clickableArea_js_timedclickable_js.3f66827cfc423be1.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:23] "GET /_static/runestone_fitb_js_timedfitb_js.e05d54921fcbdf28.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:23] "GET /_static/runestone_shortanswer_js_timed_shortanswer_js.b8f0a79df4d24de5.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:23] "GET /_static/runestone_timed_js_timed_js-runestone_clickableArea_css_clickable_css-runestone_dragndrop_css-8bfd54.b5b71ea5f2362fb3.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:09:24] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [24/Mar/2023 16:09:24] "POST /assessment/get_question_source HTTP/1.1" 501 -
+
+Aborted!
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /SQL_execution/hparsons_lg_sql_exe_knowledge_intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/CodeChat.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/runestone.8cc3d7e65ac22823.css?v=270BA92A HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/html4css1.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:13:14] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/sphinx_highlight.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/img/RAIcon.png HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/jquery.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/underscore.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/doctools.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/runtime.15415ade3806b48c.bundle.js?v=C3F66470 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:15] "GET /_static/runestone.7f68dbcf27bacd1a.bundle.js?v=124FA8F7 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/runestone_poll_js_poll_js.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/runestone_poll_js_poll_js.9a8c43a890bff803.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.449e92be60da6a04.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/vendors-node_modules_codemirror_mode_clike_clike_js-node_modules_codemirror_mode_javascript_j-f062af.cfbbd1c4edbaf7f9.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/vendors-node_modules_codemirror_addon_edit_matchbrackets_js-node_modules_codemirror_addon_hin-ab90ac.dd29d8546532c5e2.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/runestone_codelens_js_pytutor-embed_bundle_js.5ab33845a69495ce.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:16] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.d2f7c8fd7df25a61.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:13:17] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:13:17] "GET /assessment/getpollresults?div_id=hp_CS-self-efficacy-1&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:13:17] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:13:17] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-2&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:13:17] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:13:17] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-3&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:13:17] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:13:17] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-4&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:13:17] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:13:17] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-6&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:13:17] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:13:17] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-5&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:13:17] "GET /_static/sql-wasm.wasm HTTP/1.1" 304 -
+
+Aborted!
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /SQL_execution/hparsons_lg_sql_exe_knowledge_intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /SQL_execution/hparsons_lg_sql_exe_knowledge_intro.html HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 37462)
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/socketserver.py", line 316, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 347, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.8/socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.8/http/server.py", line 647, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.8/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.8/http/server.py", line 427, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.8/http/server.py", line 415, in handle_one_request
+    method()
+  File "/usr/lib/python3.8/http/server.py", line 654, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.8/http/server.py", line 853, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.8/shutil.py", line 208, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.8/socketserver.py", line 826, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /_static/accessibility.css?v=50109A2C HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /_static/webgldemo.css?v=B36B48D HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /_static/matrixeq.css?v=58BC228F HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /_static/webglinteractive.css?v=910DF1E1 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:16] "GET /_static/CodeChat.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.cd688d1623c9932e.css?v=630908D8 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/runestone.8cc3d7e65ac22823.css?v=270BA92A HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/html4css1.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/webglinteractive.js?v=2B768384 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:17] "GET /_static/FileSaver.min.js?v=8408C997 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/matrixeq.js?v=D64CFA5A HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/html4css1.css?v=4533ACD3 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/runtime.15415ade3806b48c.bundle.js?v=C3F66470 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/vendors-node_modules_bootstrap_dist_js_bootstrap_js-node_modules_jquery-ui_jquery-ui_js-node_-72cd89.51d9dde4e5162190.bundle.js?v=9CAA2D33 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/runestone.7f68dbcf27bacd1a.bundle.js?v=124FA8F7 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/runestone_poll_js_poll_js.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/runestone_poll_js_poll_js.9a8c43a890bff803.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/vendors-node_modules_handsontable_es_index_js-node_modules_handsontable_dist_handsontable_ful-dcc440.449e92be60da6a04.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/vendors-node_modules_codemirror_mode_clike_clike_js-node_modules_codemirror_mode_javascript_j-f062af.cfbbd1c4edbaf7f9.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/vendors-node_modules_codemirror_addon_edit_matchbrackets_js-node_modules_codemirror_addon_hin-ab90ac.dd29d8546532c5e2.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/runestone_codelens_js_pytutor-embed_bundle_js.5ab33845a69495ce.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:18] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_activecode_js_acfactory_js-node_modules_-ef73b3.d2f7c8fd7df25a61.bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:19] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:14:19] "GET /assessment/getpollresults?div_id=hp_CS-self-efficacy-1&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:14:19] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:14:19] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-2&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:14:19] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:14:19] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-3&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:14:19] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:14:19] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-4&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:14:19] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:14:19] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-5&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:14:19] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:14:19] "GET /assessment/getpollresults?div_id=hp-CS-self-efficacy-6&course=hparsons_learning_gain HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:14:19] "GET /_static/sql-wasm.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:14:19] code 404, message File not found
+127.0.0.1 - - [24/Mar/2023 16:14:19] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [24/Mar/2023 16:14:35] "GET /SQL_execution/hparsons_lg_sql_exe_practice_H.html HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:14:36] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:14:36] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:14:36] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:00] "GET /SQL_execution/hparsons_lg_sql_exe_practice_H.html HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:00] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:00] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:00] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:00] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:00] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Mar/2023 16:15:01] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:01] "GET /_static/vendors-node_modules_micro-parsons_micro-parsons_micro-parsons_js-node_modules_micro-parsons_-974bff.abfbc6db9bc1faf2.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:01] "GET /_static/node_modules_moment_locale_sync_recursive_-runestone_hparsons_js_hparsons_js-node_modules_mic-5ea6d2.28f4c36366c18863.bundle.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Mar/2023 16:15:01] "GET /SQL_execution/hparsons_lg_sql_exe_practice_W.html HTTP/1.1" 304 -
+
+Aborted!
