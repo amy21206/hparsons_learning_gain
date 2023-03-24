@@ -6,17 +6,16 @@ First, let's spend 8 minutes to learn about ``AND``, ``UPDATE``, and ``JOIN`` in
 AND Keyword
 ==================================================
 
-.. activecode:: hparsons_lg_sql_intro_and
+.. activecode:: hparsons_lg_sql_exe_intro_and
     :language: sql
+    :showlastsql:
 
     Here are Alice's bookkeeping entries in the table ``bookkeeping``:
 
     .. image:: https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png
+        :width: 600
 
     Sometimes we want to select data with multiple constraints, and that can be done using ``AND``.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the **last** execution result that displays the entries.
 
     ~~~~
     DROP TABLE IF EXISTS bookkeeping;
@@ -35,17 +34,16 @@ AND Keyword
 UPDATE Keyword
 ==================================================
 
-.. activecode:: hparsons_lg_sql_intro_update
+.. activecode:: hparsons_lg_sql_exe_intro_update
     :language: sql
+    :showlastsql:
 
     With the same table ``bookkeeping``:
 
     .. image:: https://i.ibb.co/yYZ9tyY/intro-bookkeeping.png
+        :width: 600
     
     Sometimes we want to update certain records.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the **last** execution result that displays the table.
 
     ~~~~
     DROP TABLE IF EXISTS bookkeeping;
@@ -72,17 +70,16 @@ UPDATE Keyword
 JOIN Keyword
 ==================================================
 
-.. activecode:: hparsons_lg_sql_intro_join
+.. activecode:: hparsons_lg_sql_exe_intro_join
     :language: sql
+    :showlastsql:
 
     Consider as a publishing company, we have two table ``authors`` and ``books``:
 
     .. image:: https://i.ibb.co/98D76Dh/intro-join.png
+        :width: 600
     
     Sometimes we want to merge the information from different tables.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the display of the entries.
 
     ~~~~
     DROP TABLE IF EXISTS authors;
@@ -139,24 +136,24 @@ What to do next
          a = document.getElementById("hparsons_lg_sql_practice")
 
          // get prev set cookie
-         var EXP_COOKIE = 'hparsons_lg_sql_221115'
+         var EXP_COOKIE = 'hparsons_lg_sql_230330'
          var cond = getCookie(EXP_COOKIE);
          
          // if no prev set cookie: generate random condition and set cookie
          if (cond != 'wr' && cond != 'hp') {
             var v = Math.floor(Math.random() * 2);
             if (v < 1) {
-                cond = 'wr';
-            } else {
                 cond = 'hp';
+            } else {
+                cond = 'wr';
             }
             setCookie(EXP_COOKIE, cond);
          }
 
          if (cond == 'wr') {
-            a.href = "hparsons_lg_sql_practice_W.html"
+            a.href = "hparsons_lg_sql_exe_practice_W.html"
          } else if (cond == 'hp') {
-            a.href = "hparsons_lg_sql_practice_H.html"
+            a.href = "hparsons_lg_sql_exe_practice_H.html"
          }
       };
     </script>

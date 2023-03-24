@@ -1,12 +1,14 @@
 Problem Bank for Post Test Problems
 -----------------------------------------------------
 
-.. activecode:: hparsons_lg_sql_test_bank_post_select
+.. activecode:: hparsons_lg_sql_exe_test_bank_post_select
     :language: sql
+    :showlastsql:
 
     We use SQL to manage a vending machine. Our current table ``goods`` looks like this:
 
     .. image:: https://i.ibb.co/hWd4CJG/posttest-goods.png
+        :width: 600
     
     To help us refill goods that are low in stock, 
     please write a SELECT statement to retrieve the ``name`` and  ``brand`` of all items
@@ -33,12 +35,14 @@ Problem Bank for Post Test Problems
     assert 1,1 == ruffles
 
 
-.. activecode:: hparsons_lg_sql_test_bank_post_update
+.. activecode:: hparsons_lg_sql_exe_test_bank_post_update
     :language: sql
+    :showlastsql:
 
     In the same ``goods`` table:
 
     .. image:: https://i.ibb.co/hWd4CJG/posttest-goods.png
+        :width: 600
     
     We just bought more chips.
 
@@ -69,16 +73,19 @@ Problem Bank for Post Test Problems
     assert 3,4 == 15
     assert 4,4 == 7
 
-.. activecode:: hparsons_lg_sql_test_bank_post_join
+.. activecode:: hparsons_lg_sql_exe_test_bank_post_join
     :language: sql
+    :showlastsql:
 
     Aside from the ``goods`` table:
 
     .. image:: https://i.ibb.co/hWd4CJG/posttest-goods.png
+        :width: 600
 
     We have another table ``transactions`` that looks like this:
 
     .. image:: https://i.ibb.co/B4H3WXb/posttest-transactions.png
+        :width: 600
 
     Where the ``goods_id`` in this table refers to the ``id`` in the ``goods`` table above. 
 

@@ -1,7 +1,7 @@
 Problem Bank for Pre Test Problems
 -----------------------------------------------------
 
-.. activecode:: hparsons_lg_sql_test_bank_pre_select
+.. activecode:: hparsons_lg_sql_exe_test_bank_pre_select
     :language: sql
 
     We use SQL to manage the equipment in a gym. Our current table ``equipment`` looks like this:
@@ -33,7 +33,7 @@ Problem Bank for Pre Test Problems
     assert 1,1 == dhs
 
 
-.. activecode:: hparsons_lg_sql_test_bank_pre_update
+.. activecode:: hparsons_lg_sql_exe_test_bank_pre_update
     :language: sql
 
     In the same ``equipment`` table:
@@ -69,7 +69,7 @@ Problem Bank for Pre Test Problems
     assert 3,4 == 10
     assert 4,4 == 7
 
-.. activecode:: hparsons_lg_sql_test_bank_pre_join
+.. activecode:: hparsons_lg_sql_exe_test_bank_pre_join
     :language: sql
 
     Aside from the ``equipment`` table:

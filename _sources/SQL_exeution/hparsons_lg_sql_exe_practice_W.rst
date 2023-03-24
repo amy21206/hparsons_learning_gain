@@ -11,18 +11,17 @@ on it for about three minutes without solving it.
 Problems
 ==============
 
-.. activecode:: hparsons_lg_sql_practice_1_wr
+.. activecode:: hparsons_lg_sql_exe_practice_1_wr
     :language: sql
+    :showlastsql:
 
     In the ``grades`` table:
 
     .. image:: https://i.ibb.co/r6qShy5/practice-grade.png
+        :width: 600
     
     Please write a SELECT statement to retrieve the ``student_id``, ``test_name``,
     and ``english`` of all entries whose ``english`` is lower than 60 and ``math`` is higher than 90.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the unittest and the **last** execution result for debugging purposes.
 
     ~~~~
     DROP TABLE IF EXISTS grades;
@@ -41,19 +40,18 @@ Problems
     assert 1,1 == midterm
   
 
-.. activecode:: hparsons_lg_sql_practice_2_wr
+.. activecode:: hparsons_lg_sql_exe_practice_2_wr
     :language: sql
+    :showlastsql:
 
     In the ``grades`` table:
 
     .. image:: https://i.ibb.co/r6qShy5/practice-grade.png
+        :width: 600
     
     A student completed an extra assignment and got some additional points. 
 
-    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their math score for ``final`` ``test_name`` to 90.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the unittest and the **last** execution result for debugging purposes.
+    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their ``math`` score to 90 in the ``final`` test (``test_name`` column).
 
     ~~~~
     DROP TABLE IF EXISTS grades;
@@ -76,20 +74,19 @@ Problems
     assert 3,3 == 99
 
 
-.. activecode:: hparsons_lg_sql_practice_3_wr
+.. activecode:: hparsons_lg_sql_exe_practice_3_wr
     :language: sql
+    :showlastsql:
 
     In the ``grades`` table:
 
     .. image:: https://i.ibb.co/r6qShy5/practice-grade.png
+        :width: 600
     
     The instructors decided to add some points to all students as one test was too difficult.
 
     Please write an UPDATE statement to change all entries whose ``test_name`` is ``midterm``,
     and add 10 points to their ``english`` score.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the unittest and the **last** execution result for debugging purposes.
     ~~~~
     DROP TABLE IF EXISTS grades;
     create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
@@ -113,26 +110,25 @@ Problems
     assert 4,2 == 65
 
 
-.. activecode:: hparsons_lg_sql_practice_4_wr
+.. activecode:: hparsons_lg_sql_exe_practice_4_wr
     :language: sql
+    :showlastsql:
 
     Aside from the ``grades`` table:
 
     .. image:: https://i.ibb.co/r6qShy5/practice-grade.png
+        :width: 600
 
     We also have a ``students`` table:
     
     .. image:: https://i.ibb.co/m4KxSMC/practice-students.png
-
+        :width: 600
     
     Now we want to match the student name to their math grades.
 
     Please write a statement using SELECT and JOIN to: select the ``test_name`` and ``math``
     from the ``grades``  table and ``name`` from the ``students`` table, where the ``student_id``
     in the ``grades`` table is the same as the ``id`` in the ``students`` table.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the unittest and the **last** execution result for debugging purposes.
     ~~~~
     DROP TABLE IF EXISTS grades;
     create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
@@ -154,25 +150,25 @@ Problems
     assert 3,2 == Blake
   
 
-.. activecode:: hparsons_lg_sql_practice_5_wr
+.. activecode:: hparsons_lg_sql_exe_practice_5_wr
     :language: sql
+    :showlastsql:
 
     Aside from the ``grades`` table:
 
     .. image:: https://i.ibb.co/r6qShy5/practice-grade.png
+        :width: 600
 
     We also have a ``tests`` table:
     
     .. image:: https://i.ibb.co/KVTGNXh/practice-tests.png
+        :width: 600
     
     Now we want to add the date information to the grades to see when the students took the tests.
 
     Please write a statement using SELECT and JOIN to: select the ``date`` and ``name``
     from the ``tests``  table and ``student_id`` from the ``grades`` table,
     where the ``test_name`` in the ``grades`` table is the same as the ``name`` in the ``tests`` table.
-
-    note: When you run the code, there will be several execution results.
-    Please only refer to the unittest and the **last** execution result for debugging purposes.
     ~~~~
     DROP TABLE IF EXISTS grades;
     create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
@@ -222,13 +218,13 @@ What to do next
       window.onload = function() {
 
         a = document.getElementById("hparsons_lg_sql_posttest")
-        a.href = "hparsons_lg_sql_posttest.html"
+        a.href = "hparsons_lg_sql_exe_posttest.html"
 
         // get prev set cookie
-        var EXP_COOKIE = 'hparsons_lg_sql_221115'
+        var EXP_COOKIE = 'hparsons_lg_sql_230330'
         var cond = getCookie(EXP_COOKIE);
         if (cond == 'hp') {
-          window.location.href = "hparsons_lg_sql_practice_H.html";
+          window.location.href = "hparsons_lg_sql_exe_practice_H.html";
         }
       };
 

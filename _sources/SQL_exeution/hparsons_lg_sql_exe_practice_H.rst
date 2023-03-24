@@ -11,10 +11,9 @@ on it for about three minutes without solving it.
 Problems
 ==============
 
-.. hparsons:: hparsons_lg_sql_practice_1_hp
+.. hparsons:: hparsons_lg_sql_exe_practice_1_hp
     :language: sql
     :randomize:
-    :blockanswer: 0 1 2 3 4 5
 
     In the ``grades`` table:
 
@@ -23,6 +22,15 @@ Problems
     Please write a SELECT statement to retrieve the ``student_id``, ``test_name``,
     and ``english`` of all entries whose ``english`` is lower than 60 and ``math`` is higher than 90.
     ~~~~
+    --hiddenprefix--
+    DROP TABLE IF EXISTS grades;
+    create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+    INSERT INTO grades (student_id,test_name,english,math) VALUES
+        ('1', 'midterm', 62, 84),
+        ('1', 'final', 70, 86),
+        ('2', 'midterm', 50, 95),
+        ('2', 'final', 80, 99),
+        ('3', 'midterm', 55, 91);
     --blocks--
     SELECT
     student_id, test_name, english
@@ -31,12 +39,16 @@ Problems
     WHERE
     english < 60 AND math > 90
     english < 60 & math > 90
+    --unittest--
+    assert 0,0 == 2
+    assert 0,1 == midterm
+    assert 1,0 == 3
+    assert 1,1 == midterm
   
 
-.. hparsons:: hparsons_lg_sql_practice_2_hp
+.. hparsons:: hparsons_lg_sql_exe_practice_2_hp
     :language: sql
     :randomize:
-    :blockanswer: 0 1 2 3 4
 
     In the ``grades`` table:
 
@@ -44,8 +56,17 @@ Problems
     
     A student completed an extra assignment and got some additional points. 
 
-    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their math score for ``final`` ``test_name`` to 90.
+    Please write an UPDATE statement to change the entry whose ``student_id`` is 1, and set their ``math`` score to 90 in the ``final`` test (``test_name`` column).
     ~~~~
+    --hiddenprefix--
+    DROP TABLE IF EXISTS grades;
+    create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+    INSERT INTO grades (student_id,test_name,english,math) VALUES
+        ('1', 'midterm', 62, 84),
+        ('1', 'final', 70, 86),
+        ('2', 'midterm', 50, 95),
+        ('2', 'final', 80, 99),
+        ('3', 'midterm', 55, 91);
     --blocks--
     UPDATE grades
     SET
@@ -54,13 +75,17 @@ Problems
     student_id = 1 AND test_name = "final"
     LET
     student_id = 1 AND test_name = final
+    --hiddensuffix--
+    SELECT * FROM grades;
+    --unittest--
+    assert 1,1 == final
+    assert 1,3 == 90
+    assert 3,3 == 99
 
 
-
-.. hparsons:: hparsons_lg_sql_practice_3_hp
+.. hparsons:: hparsons_lg_sql_exe_practice_3_hp
     :language: sql
     :randomize:
-    :blockanswer: 0 1 2 3 4 5
 
     In the ``grades`` table:
 
@@ -71,6 +96,15 @@ Problems
     Please write an UPDATE statement to change all entries whose ``test_name`` is ``midterm``,
     and add 10 points to their ``english`` score.
     ~~~~
+    --hiddenprefix--
+    DROP TABLE IF EXISTS grades;
+    create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+    INSERT INTO grades (student_id,test_name,english,math) VALUES
+        ('1', 'midterm', 62, 84),
+        ('1', 'final', 70, 86),
+        ('2', 'midterm', 50, 95),
+        ('2', 'final', 80, 99),
+        ('3', 'midterm', 55, 91);
     --blocks--
     UPDATE
     grades
@@ -79,12 +113,19 @@ Problems
     WHERE
     test_name = "midterm"
     english + 10
+    --hiddensuffix--
+    SELECT * FROM grades 
+    --unittest--
+    assert 0,2 == 72
+    assert 1,2 == 70
+    assert 2,2 == 60
+    assert 3,2 == 80
+    assert 4,2 == 65
 
 
-.. hparsons:: hparsons_lg_sql_practice_4_hp
+.. hparsons:: hparsons_lg_sql_exe_practice_4_hp
     :language: sql
     :randomize:
-    :blockanswer: 0 1 2 3 4
 
     Aside from the ``grades`` table:
 
@@ -100,6 +141,21 @@ Problems
     from the ``grades``  table and ``name`` from the ``students`` table, where the ``student_id``
     in the ``grades`` table is the same as the ``id`` in the ``students`` table.
     ~~~~
+    --hiddenprefix--
+    DROP TABLE IF EXISTS grades;
+    create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+    INSERT INTO grades (student_id,test_name,english,math) VALUES
+        ('1', 'midterm', 62, 84),
+        ('1', 'final', 70, 86),
+        ('2', 'midterm', 50, 95),
+        ('2', 'final', 80, 99),
+        ('3', 'midterm', 55, 91);
+    DROP TABLE IF EXISTS students;
+    create table "students" ("id" INTEGER, "name" TEXT);
+    INSERT INTO students (id,name) VALUES
+        (1, 'Alex'),
+        (2, 'Blake'),
+        (3, 'Charlie');
     --blocks--
     SELECT
     grades.test_name, grades.math, students.name
@@ -107,12 +163,14 @@ Problems
     JOIN students
     ON students.id = grades.student_id
     ON students.id = grades.id
+    --unittest--
+    assert 0,2 == Alex
+    assert 3,2 == Blake
 
 
-.. hparsons:: hparsons_lg_sql_practice_5_hp
+.. hparsons:: hparsons_lg_sql_exe_practice_5_hp
     :language: sql
     :randomize:
-    :blockanswer: 0 1 2 3 4 5 6
 
     Aside from the ``grades`` table:
 
@@ -128,6 +186,20 @@ Problems
     from the ``tests``  table and ``student_id`` from the ``grades`` table,
     where the ``test_name`` in the ``grades`` table is the same as the ``name`` in the ``tests`` table.
     ~~~~
+    --hiddenprefix--
+    DROP TABLE IF EXISTS grades;
+    create table "grades" ("student_id" INTEGER, "test_name" TEXT, "english" INTEGER, "math" INTEGER);
+    INSERT INTO grades (student_id,test_name,english,math) VALUES
+        ('1', 'midterm', 62, 84),
+        ('1', 'final', 70, 86),
+        ('2', 'midterm', 50, 95),
+        ('2', 'final', 80, 99),
+        ('3', 'midterm', 55, 91);
+    DROP TABLE IF EXISTS tests;
+    create table "tests" ("name" TEXT, "date" DATE);
+    INSERT INTO tests (name,date) VALUES
+        ('midterm', '2022-10-15'),
+        ('final', '2022-11-13');
     --blocks--
     SELECT
     tests.date, tests.name, grades.student_id
@@ -136,6 +208,11 @@ Problems
     grades
     ON
     grades.test_name = tests.name
+    --unittest--
+    assert 0,0 == 2022-10-15
+    assert 0,1 == midterm
+    assert 0,2 == 1
+
 
 
 What to do next
@@ -179,13 +256,13 @@ What to do next
       window.onload = function() {
 
         a = document.getElementById("hparsons_lg_sql_posttest")
-        a.href = "hparsons_lg_sql_posttest.html"
+        a.href = "hparsons_lg_sql_exe_posttest.html"
 
         // get prev set cookie
-        var EXP_COOKIE = 'hparsons_lg_sql_221115'
+        var EXP_COOKIE = 'hparsons_lg_sql_230330'
         var cond = getCookie(EXP_COOKIE);
         if (cond == 'wr') {
-          window.location.href = "hparsons_lg_sql_practice_W.html";
+          window.location.href = "hparsons_lg_sql_exe_practice_W.html";
         }
       };
 
