@@ -3,7 +3,7 @@ Survey and Introduction to AND, UPDATE, and JOIN
 
 First, let's spend 10 minutes to complete a short survey and learn about ``AND``, ``UPDATE``, and ``JOIN`` in SQL!
 
-.. poll:: hp_CS-self-efficacy-1
+.. poll:: hp-CS-self-efficacy-1
     :option_1: Strongly disagree
     :option_2: Disagree
     :option_3: Neither agree nor disagree

@@ -30,6 +30,4 @@ Thank You 🤗
 ============================
 🎉 We appreciate your participation in our study.
 
-We will provide the result of the questions after next class.
-
 If you have questions or feedback, or want to know more, please contact Zihan Wu (ziwu@umich.edu).

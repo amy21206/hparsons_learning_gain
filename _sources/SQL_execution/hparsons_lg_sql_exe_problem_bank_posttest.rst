@@ -127,6 +127,4 @@ Thank You 🤗
 ============================
 🎉 We appreciate your participation in our study.
 
-We will provide the answer of the questions in a separate link soon.
-
 If you have questions or feedback, or want to know more, please contact Zihan Wu (ziwu@umich.edu).
